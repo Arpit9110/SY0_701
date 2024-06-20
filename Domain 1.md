@@ -1,4 +1,4 @@
-# CIA Traid : Confidentiality, Integrity and Availability.
+# CIA Triad : Confidentiality, Integrity and Availability.
 
 ## Confidentiality:
 This refers to the process by which data is protected form Unauthorizes user & it is only visible to authorized and authentic user. It ensures access disclosure to authentic user only.
@@ -9,7 +9,7 @@ This refers to the protecting the originality of the data or the information. It
 ## Availability: 
 It refers to data being available to use for user when intended. It concerns with the availability of data in any scenario.
 
-- These are the CIA traids by now a days there are 2 more factors:
+- These are the CIA triads by now a days there are 2 more factors:
 
 ## Non-Repudiation: 
 It guarantee that a specific action event has take place and cannot be denied by the both the parties involved. It can be achieved by logging every action, process by users as well as the process initiating any process or features.
@@ -17,9 +17,10 @@ It guarantee that a specific action event has take place and cannot be denied by
 ## Authentication:
 It refers to the process of verifying the identity of a user or a system.
 
-"CIA" traid is now a days transformed to:-  "CIANA"  by adding non-repudiation and Authentication making it a security polygon.
+# " CIA triad is now a days transformed to:-  CIANA  by adding non-repudiation and Authentication making it a security polygon."
 
-# Triple A (AAA) of security: Authentication, Authorization, Accounting.
+
+## Triple A (AAA) of security: Authentication, Authorization, Accounting.
 
 ### Authentication: 
 It is a security measure that ensure the identity of a individual  or entities about  who they claim to be during starting or accessing a process, data feature.
@@ -61,18 +62,18 @@ Security Controls-> These are the method , technique and mechanisms put in place
 It involves the hardware and software component that protect a system against cyberattacks. Example Firewall(both physical and software), IDS(Intrusion Detection System), IPS (Intrusion prevention system) etc.
 
 ### Managerial Controls
-It is also refered to as administrative controls. It involves stratagic planning and governance side of security.
+It is also referred to as administrative controls. It involves strategic planning and governance side of security.
 
 ### Operational Controls
 The process and measure that are designed to protect data and information on day-to-day basis. It more like daily measures takes to protect the data from malicious actors. It governs Internal process and human actions.
 
 ### Physical Controls
-It concerns with the physical aspect of the security like physical access to the server, unauthorized access to the physical hardware, Vandalism of the server, fire protection, Disaster protection, Power outrage etc. This can be done by allotting security guards, implementating access control, Fire safety equipment, Having Boundaries and reinforcing it with barb-wires, implementing Earthquake protection measures.
+It concerns with the physical aspect of the security like physical access to the server, unauthorized access to the physical hardware, Vandalism of the server, fire protection, Disaster protection, Power outrage etc. This can be done by allotting security guards, implementing access control, Fire safety equipment, Having Boundaries and reinforcing it with barb-wires, implementing Earthquake protection measures.
 
 ## 6 Basic Types of Security Control
 
 ### Preventive Controls.
-Proactive measure implemented to thow away the potential security threats or breaches.
+Proactive measure implemented to throw away the potential security threats or breaches.
 
 ### Deterrent controls.
 Discourage potential attackers by making the effort seen less appealing and more challenging. 
