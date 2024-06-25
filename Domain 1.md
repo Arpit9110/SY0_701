@@ -254,7 +254,7 @@ It is the process of evaluating the differences between an organization's curren
 - Analyse the data to identify any areas where the organization's current performance fall short of it's desired performance.
 - Develop a plan to bridge the gap.
 
-## 2 Basic type of Gap Analysis
+# 2 Basic type of Gap Analysis
 
 #### Technical Gap Analysis
 
