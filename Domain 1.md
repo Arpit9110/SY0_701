@@ -85,8 +85,23 @@ It refers to the duplication of critical software process, critical component, c
 ## Non-Repudiation: 
 It guarantee that a specific action event has take place and cannot be denied by the both the parties involved. It can be achieved by logging every action, process by users as well as the process initiating any process or features.
 
+It focused on providing undeniable proof on their participation or it's authenticity  on any communication or transaction by any individual or entities involved in the process.
+
+It ensures authenticity and accountability  in all the communication and transaction.
+
+Digital signature is used for confirming the identity and accountability of the sender. It usages both encryption and hashing. In this process hash is generate for the file/message to be sent the that hash is encrypted with the private key of the user using Asymmetric encryption.
+
+Importance of Non Repudiation:
+- Confirming the Authenticity of the Digital Transactions.
+     To remove impersonation and identity theft so no one can deny the message which is sent.
+- Ensuring the Integrity of the Transaction/ Message.
+     It remove the concept that the message that is received is really what was sent as break the chain of undeniable proof so no one can say that this was not the message that they sent.
+- Providing the Accountability to the sender.
+      It ensures that no one can deny the the task being performed and can trace them bask without denial.
+
+<font color="#c00000">NON REPUDATION IS RELATED TO DIGITAL SIGNATURE</font>
 ## Authentication:
-It refers to the process of verifying the identity of a user or a system.
+It refers to the process of verifying the identity of a user/system in digital infrastructure . It is a security measure that ensures that individuals or entities are who they claim to be during a communication or transaction.
 
 # " CIA triad is now a days transformed to:-  CIANA  by adding non-repudiation and Authentication making it a security polygon."
 
@@ -95,30 +110,36 @@ It refers to the process of verifying the identity of a user or a system.
 
 ### Authentication: 
 It is a security measure that ensure the identity of a individual  or entities about  who they claim to be during starting or accessing a process, data feature.
+It is a security measure that ensures that individuals or entities are who they claim to be during a communication or transaction.
 
 It can be done by many ways:
 
 ### Something User knows ( Knowledge Based ).
-  Like Password, Username, Pin code.
+  Like Password, Username, Pin code. Most Common is Username, Password.
 
 ### Something User have ( Possession Based ).
   Like security key , key card, RFID card, ID card, OTP.
 
 ### Something User is ( Biometric Based ).
-  Like Finger-print, Iris scan, Retina scan.
+  Like Finger-print, Iris scan, Retina scan Biometric Features like Facial Scan.
 
 ### Something User do ( Action Based ).
   Like Authentication at a particular days of a week like not available on Saturday, Sunday,
        Authentication is performed only after logging in organization private network.
+       Hand-Writing or way of walking. 
 
 ### Something where a user is ( Location Based ).
   Like Authentication only when user is in organization's office geo-location.
 
-Multifactor Authentication:-> It refers to using two or more factor of authentication to get identity so that  authentication process of a user gets initiated.
+***Multifactor Authentication***:-> It refers to using two or more factor of authentication to get identity so that  authentication process of a user gets initiated.
 
+Importance of Authentication:
+Prevent unauthorized Access
+Protect user Data and Privacy
+Ensure Resource Validity
 ### Authorization: 
 it is the Process to grant the permission and privilege to the user whose authentication process is Successfully finished  and is authenticated.
-
+It determine what the authenticated user can do. 
 There are may ways for deciding the permission and privileges. Role Based, Group Based, Action Based, etc.
 
 ### Accounting: 
