@@ -148,7 +148,7 @@ It is process of tracking user activity and the process running in the backgroun
 
 Security Controls-> These are the method , technique and mechanisms put in place to mitigate risk and protect the CIA Trials of Information System and Data.
 
-##4 Broad categories of Security Control.
+## 4 Broad categories of Security Control.
 
 ### Technical Control 
 It involves the hardware and software component that protect a system against cyberattacks. Example Firewall(both physical and software), IDS(Intrusion Detection System), IPS (Intrusion prevention system) etc.
