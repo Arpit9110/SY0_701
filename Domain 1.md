@@ -140,12 +140,29 @@ Ensure Resource Validity
 ### Authorization: 
 it is the Process to grant the permission and privilege to the user whose authentication process is Successfully finished  and is authenticated.
 It determine what the authenticated user can do. 
-There are may ways for deciding the permission and privileges. Role Based, Group Based, Action Based, etc.
+There are may ways for deciding the permission and privileges. Role Based, Rule Based, Attribute Based, etc.
 
 ### Accounting: 
 It is process of tracking user activity and the process running in the background. It also track the user clicks, Resources usages, and every process user does, starts, stops. It is generally done for audit trials, security audit, Forensics check and billing purpose.
 
+It aims to achieve 
+- Transparency
+- Security 
+- Accountability
 
+Accounting include process like :
+- Logging into the system.
+- Accessing files.
+- Modifying Configuration Settings.
+- Downloading or installing software.
+- Attempting unauthorized action on system and network.
+
+Accounting helps in maintaining things like:
+- Audit Trail
+- Regulatory Compliance
+- Forensics Analysis
+- Resource Optimization
+- User Accountability
 Security Controls-> These are the method , technique and mechanisms put in place to mitigate risk and protect the CIA Trials of Information System and Data.
 
 ## 4 Broad categories of Security Control.
