@@ -1,3 +1,8 @@
+Objectives:
+
+1.1-Compareandcontrast various types of security controls 
+
+1.2-Summarizefundamental security concepts
 # CIA Triad : Confidentiality, Integrity and Availability.
 
 # Confidentiality:
