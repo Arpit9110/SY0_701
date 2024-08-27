@@ -155,7 +155,7 @@ It aims to achieve
 - Security 
 - Accountability
 
-Accounting include process like :
+Accounting include logging of process like :
 - Logging into the system.
 - Accessing files.
 - Modifying Configuration Settings.
@@ -163,24 +163,40 @@ Accounting include process like :
 - Attempting unauthorized action on system and network.
 
 Accounting helps in maintaining things like:
-- Audit Trail
-- Regulatory Compliance
-- Forensics Analysis
+- Audit Trail.
+     It is done to provide chronological record of all User activities in order to track changes , unauthorized changes and access, or anomalies back to specific user or point of time.  
+- Regulatory Compliance.
+     Many industries needed to have some regulatory compliance for different rules so for that the companies used accounting system to maintain a robust and comprehensive user activity log. 
+- Forensics Analysis.
+     It is done to help cyber security expert to understand how the incident  what happened, why it happened and How it happened. It also help in mitigating similar incident from happening.
 - Resource Optimization
+     Using logs to analyse the resource usages to optimize the application performance
 - User Accountability
+     It creates Non repudiation in which the user cannot deny of performing of any action which it might have.
+Tools to implement  Accounting System:
+-  Syslog Server.
+     Used to aggregate logs from various network devices and system to find pattern or abnormalities i  the organization's system. 
+     It's king of a centralize logging system.  
+- Network Analyser.
+     Used to capture and analyse network packets to gain detailed  insight into all the data moving across the network.
+- SIEMs(Security Information and Event Management System).
+     
 Security Controls-> These are the method , technique and mechanisms put in place to mitigate risk and protect the CIA Trials of Information System and Data.
 
 ## 4 Broad categories of Security Control.
 
 ### Technical Control 
-It involves the hardware and software component that protect a system against cyberattacks. Example Firewall(both physical and software), IDS(Intrusion Detection System), IPS (Intrusion prevention system) etc.
+It involves the hardware and software component that protect a system against cyberattacks (Risk). Example Firewall(both physical and software), IDS(Intrusion Detection System), IPS (Intrusion prevention system) etc. Any piece of software or tool that guard CIA Triad is called Technical control.
 
 ### Managerial Controls
 It is also referred to as administrative controls. It involves strategic planning and governance side of security.
 
 ### Operational Controls
 The process and measure that are designed to protect data and information on day-to-day basis. It more like daily measures takes to protect the data from malicious actors. It governs Internal process and human actions.
-
+ It involves things  like :
+                Backup procedures
+                Account Review 
+                User training Program 
 ### Physical Controls
 It concerns with the physical aspect of the security like physical access to the server, unauthorized access to the physical hardware, Vandalism of the server, fire protection, Disaster protection, Power outrage etc. This can be done by allotting security guards, implementing access control, Fire safety equipment, Having Boundaries and reinforcing it with barb-wires, implementing Earthquake protection measures.
 
@@ -278,9 +294,10 @@ These vulnerabilities can be used by malicious actors to gain acess to the sysem
 ### <font color="#ffff00"> Where threats and vulnerabilities intersect , That is where the risk to your enterprise system and networks lies.</font>
 ### <font color="#ffff00"> If you have a threat, but there is no attached/matching vulnerability  to it , Then you have no risk and vice versa.</font>
 ### <font color="#ffff00"> The same holds true that if you have a vulnerability but there's no threat against it then there would be no risk.</font>
-
+### <font color="#ffff00"> Threat + No Vulnerability = No Risk</font>
+### <font color="#ffff00">No Threat + Vulnerability = No Risk</font>
 # Risk
-
+ 
 This measure is the combination of the likelihood that a threat exploits a vulnerability and the scale of harmful consequences.
 
 Risk = (Probability that a threat occurs) * (Cost to the asset owner)
