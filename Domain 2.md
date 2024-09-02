@@ -1,23 +1,27 @@
 # Objectives:
 
 - 1.2-Summarizefundamental security concepts  
-- 2.1-Compareandcontrast common threat actors and motivations 
-- 2.2-Explain common threat vectors and attack surfaces
+- 2.1-Compare and contrast Common Threat Actors and Motivations 
+- 2.2-Explain common Threat Vectors and Attack Surfaces
 
-#### Threat Actor Motivations 
-###### There is a difference between the intent of the attack and the motivation that fuels that attack 
-##### Threat Actor Intent
+### Threat Actor 
+
+It is an Individual or entity responsible for incidents that impact data security. 
+### Threat Actor Motivations 
+ There is a difference between the intent of the attack and the motivation that fuels that attack 
+#### Threat Actor Intent
   Specific objective or goal that a threat actor is aiming to achieve through their attack.
-##### Threat Actors Motivation
+#### Threat Actors Motivation
 Underlying reason or driving force that pushes a threat actor to carry out their attack.
 
-###### Difference Motivations behind threat actors
+#### Difference Motivations behind threat actors
 ##### Data Exfiltration 
- Unauthorized transfer of data from a computer 
+ It refers to unauthorized transfer of data from a computer. Like stealing You private information like IP address, Intellectual Property, Personally Identifiable Information(PII), Trade secret,  with the purpose of Selling it on the dark web, Using it for identity theft, Leveraging it for a competitive advantage.
 ##### Financial Gain 
-  Achieved through various means, such as ransomware  attack, trojan horse to get login info to steal financial info.
+  - It is one of the most common motivation for cybercriminal. They achieve it through various means, such as:-   - ransomware  attack
+                        - trojan horse to get login info to steal financial info.
 ##### Blackmail
- Attacker obtains sensitive or compromising information in order to threatens to release that information to the public.
+ Attacker obtains sensitive or compromising information in order to threatens to release that information to the public Unless certain demands are met (Usually it involves financial gain).
 ##### Service Disruption 
   Some attacks aims to disrupt the services to create chaos , political statement or for ransom to an organization.
 
