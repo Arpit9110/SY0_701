@@ -1,3 +1,5 @@
+# Objectives:
+
 - 1.2-Summarizefundamental security concepts  
 - 2.1-Compareandcontrast common threat actors and motivations 
 - 2.2-Explain common threat vectors and attack surfaces
