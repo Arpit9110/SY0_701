@@ -220,18 +220,19 @@ Alternative measures that are implemented when primary security control are not 
 ### Directive controls.
 These are guide, information and mandatory actions. These are often rooted in policy are documentation and det the standards for behaviour within in an organization.
 
-##### Zero trust:- It is the process that demands verification for every use or transaction within the trusted network regardless of it's privileges and permission. It sate that do not trust any user and treat every user as an unauthorized personal until verified it's identity. 
-
-## Zero trust architecture required 2 different plane for its implementation:-
+# Zero trust
+It basically a best practice  It is the process that demands verification for every use or transaction within the trusted network regardless of it's privileges and permission. It sate that do not trust any user and treat every user as an unauthorized personal until verified it's identity. 
+#####  <font color="#ffff00">"Trust Nothing and Verify Everything"</font>
+### Zero trust architecture required 2 different plane for its implementation:-
 
 ## Control Plane: 
-It refers to the overwatching framework and set of components responsible for defining, managing and enforcing the policies related to user and system access within an organization.
-
+It refers to the overwatching framework and set of components responsible for <font color="#ffff00">defining, managing and enforcing the policies related to user and system</font> access within an organization.
+ A centralize control system that controls when, whom, how and where  to give access to the system. 
 ### Key element for control plane are:
 
 #### Adoptive identity:
 
-Relies on real time validation that takes into account user's behaviour, device, location and more.
+It relies on real time validation that takes into account user's behaviour, device, location and more.
 
 #### Threat Scope Reduction:
 
@@ -239,7 +240,8 @@ Limit the users access to only what they need for their work task because this r
 
 #### Policy Driven Access Control:
 
-Entails developing, managing and enforcing user access policies based on their roles and responsibilities.
+Entails developing, managing and enforcing user access policies based on their roles and responsibilities.  
+Basically it places the that only allows identifies user have the privilege to gain access to the system.
 
 #### Secured Zone:
 
@@ -253,7 +255,7 @@ It ensures that the policies are properly implemented and are being executed in 
 
 #### Subject/System:
 
-refers to the individual or an entity that is trying to gain access of the system.
+refers to the identity of the individual or an entity that is trying to gain access of the system.
 
 #### Policy Engine:
 
@@ -328,3 +330,4 @@ Involves evaluating an organization's current business processes. It also identi
 
 It outlines the specific measures to address each vulnerability and allocates resources for it also. It also set up timelines for each remediation task that is needed.
 
+A gap analysis is a powerful tool that can help organizations to improve their security and their performance by identifying areas where improvements can be made
