@@ -43,3 +43,4 @@ Underlying reason or driving force that pushes a threat actor to carry out their
 ##### War 
   Cyberwarfare can be used to disrupt a country's infrastructure, compromise its national security, and to cause economic damage.
 
+Threat Actor Attributes
