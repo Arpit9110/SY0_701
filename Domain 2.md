@@ -62,4 +62,18 @@ These ate the individual That do not have enough knowledge and skill to develop 
 
 These attacker can do DDOS attack or can just put the IP of the victim's system and run the pre-made exploit.
 
-### Hacktivists
+### Hacktivists 
+   - Hacktivist :   
+            Individual or group of individual that use their technical skill to promote a cause or dive a social change instead personal gain.       
+            These people are motivate by an ideological belief rather than the financial gains.
+   
+   - Hacktivism : 
+                    Activities in which  Hacking and other cyber technique are used to promote or advance a political of social cause
+   To achieve their goal the hacktivist use various technique such as:
+   - Website Defacement: This method the threat actor gain  unauthorised access to the website and alter it's content to display a message or a statement supporting their agenda.  Like virtual graffiti.
+   - DDOS : DDOS stands for Distributed Denial of service. It a method by which the attacker use fake payload to overwhelm the serve to stop it's normal functioning, and make website or the running service on the server, unavailable  to the public. 
+   - Doxing: In this the attacker publicly release the private information of an individual or an organization.
+   - Leaking Sensitive Information: Revealing secret information like trade secret, secret Technology to the public at large.
+   Most well Known Hacking Group is "ANONYMOUS".
+
+### Organised Crime
