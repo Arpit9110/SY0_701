@@ -77,3 +77,11 @@ These attacker can do DDOS attack or can just put the IP of the victim's system 
    Most well Known Hacking Group is "ANONYMOUS".
 
 ### Organised Crime
+- Organised cybercrime groups are group ae group of  syndicates that have banded together to conduct criminal activities in the digital world. These are very sophisticated and well structured organization who have a lot of resources.
+
+- In Terms of their capabilities, organized crime groups posses a very high level of technical capability and they often employ advance hacking technique and tools. They can do things like custom Malware, Ransomware, Sophisticated Phishing Campaigns. 
+
+- These group engage in many criminal activities like Data breach, Identity Theft, Online Fraud, Ransomware Attacks.
+
+
+
