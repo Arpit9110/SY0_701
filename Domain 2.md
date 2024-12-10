@@ -77,11 +77,47 @@ These attacker can do DDOS attack or can just put the IP of the victim's system 
    Most well Known Hacking Group is "ANONYMOUS".
 
 ### Organised Crime
+
 - Organised cybercrime groups are group ae group of  syndicates that have banded together to conduct criminal activities in the digital world. These are very sophisticated and well structured organization who have a lot of resources.
 
 - In Terms of their capabilities, organized crime groups posses a very high level of technical capability and they often employ advance hacking technique and tools. They can do things like custom Malware, Ransomware, Sophisticated Phishing Campaigns. 
 
 - These group engage in many criminal activities like Data breach, Identity Theft, Online Fraud, Ransomware Attacks.
+
+- Organized cybercrime group are typically driven by Monetary gain. They can include in activities like being hired by other entities including government to conduct cyber attacks. They do not only care about political or social effect of their attack.
+### Nation-state Actor
+
+- These individuals or group of people are sponsored by a government to conduct cyber operation against other nations, organizations or individuals.
+
+- These threat actor attempts a false Flag attack to divert the attention of the authorities to create a diversion or to falsely accuse some other country.
+
+- (False Flag Attack:- Attack that is orchestrated in such a way that it appears to originate  from a different source or group that the actual perpetrator with intention to mislead the investigation.)
+
+- These threat actor posses advance technical skills and extensive resources, they are expert in conducting complex and coordinated cyber operation with techniques like Creating custom malware, Using Zero day attack, Becoming an Advanced Persistent Threat.
+
+- Nation-state actors are motivated to achieve their long-term strategic goals, and they are not seeking financial gain.
+### Advance Persistent Threat (APT)
+
+- These attack are long-term persistence , targeted cyberattack in which an intruder gain unauthorized access to a network and remains undetected for an extended period while trying to steal data or monitor network activities rather than cause immediate damage. 
+
+### Insider Threats
+
+- Cybersecurity Threat That originate from inside the organization. These peoples have varying levels of capabilities. 
+
+-  Insider threat can take various forms like Data Theft , Sabotage, misuse of access privilege.
+
+- Each insider threat is divided by  different motivation like :  Financial gain from selling organization sensitive data , revenge against organization, to create awareness in organization.
+
+- To mitigate the risk one can follow following policy like zero trust architecture, Employ robust access control, regular audits, Provide effective employee security awareness program.
+### Shadow IT
+
+### Threat Vectors and Attack Surfaces
+
+Threat vector: 
+             Route or pathway by which 
+
+
+
 
 
 
