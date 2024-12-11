@@ -113,11 +113,47 @@ These attacker can do DDOS attack or can just put the IP of the victim's system 
 
 ### Threat Vectors and Attack Surfaces
 
-Threat vector: 
-             Route or pathway by which 
+- Threat vector: 
+             - Route or pathway by which an attacker can gain unauthorized access of a system or a network by delivering malicious payload or carry out an unwanted action.
+- Attack Surface:
+             - It basically collection of all the various points where an unauthorised user can try to enter data or extract data from a environment or a system.
+            - The Attack surface can be minimized  by : Restricting Access to the system, Removing unnecessary software, Disabling unused protocol.
+     In cyber space the Threat vector is " How to attack" and the attack surface is  "Where to attack ".
+     There are several threat vector that can be used to attack an enterprise network.
+     - Message: In this Threat vector the threat is delivered via a instant  messaging service like Email or Simple  Message Service(SMS).Generally Phishing attacks are performed using this Vector. 
+     
+     - Image:  In this threat vector the image file is embedded with malicious codes which is executed when the image is opened.
+    
+     - Files:  In this threat vector malicious file are disguised as a legitimate document and is transferred via email or files haring app or can be hosted on malicious website. These file are executed on opening the file.
+     
+     - Voice Calls : Vishing the biggest threat vector for the Voice call.  
+        Vishing: vishing is a form of phishing attack in which victim is manipulated into revelling sensitive information
+     - Removable Device: The most common attack for this vector is Baiting.
+        Baiting: baiting is a attack in which attacker leaves a infected removeable device in place where victim or target might find it like parking lot, office table etc. When the device is used it can compromise the security of victim's device.
+    - Unsecure Network
+         - Unsecure Network : It includes wireless, wired and Bluetooth Network that lack the appropriate security in its configuration. These type of network can be exploited by attackers to intercept the communication or gain unauthorized access over it. 
+         - Physical network are more secure than the wireless network, but these wired network are susceptible to threat like MAC cloning and VLAN hopping.
+         - By exploiting vulnerability  in the Bluetooth one can perform attacks like Blue-Borne and Blue Smack
+             Blue Borne : It is a set of vulnerability in Bluetooth technology that can allow n attacker to take over devices, spread malware or attacker can spy over the connection.
+             Blue Smack: It's a  type of DDoS (Distributed Denial of Service ) attack that targets Bluetooth enabled devices. In this attacker use logical link and Adaptation packet to a target the device.
 
+### Outsmarting Threat Actors
+To learn from the threat Actor that are attacking your network is by using and setting up deception and disruption technique. 
 
+- Tactics, Techniques, and Procedures (TTPs):
+    In this technique the system associate Specific methods and patterns of activities or behaviours with a particular threat actor or group of threat actors.
 
+- Deceptive and Disruption Technologies: These are the technology used to mislead, confuse and divert attacks from critical assets while simultaneously detecting and neutralizing threats.  Example:
+    - Honeypots:
+    - Honeynets:
+    - Honey files:
+    - Honeytokens:
+- Some Disruption technique and strategies used by enterprise networks are:
+    - Bogus DNS entries:
+    - Creating decoy Directories:
+    - Dynamic page generation:
+    - Use of port Triggering to hide services:
+    - Spoofing Fake telemetry Data:
 
 
 
