@@ -144,16 +144,24 @@ To learn from the threat Actor that are attacking your network is by using and s
     In this technique the system associate Specific methods and patterns of activities or behaviours with a particular threat actor or group of threat actors.
 
 - Deceptive and Disruption Technologies: These are the technology used to mislead, confuse and divert attacks from critical assets while simultaneously detecting and neutralizing threats.  Example:
-    - Honeypots:
-    - Honeynets:
-    - Honey files:
-    - Honeytokens:
+    - Honeypots:  Decoy system setup to attract potential hacker.
+
+    - Honeynets: Network of honey to create a more complex system that is designed to mimic an entire network of system which includes device like : server, Routers, Switches 
+
+    - Honey files: Decoy files paced within system to lure in potential attackers.
+
+    - Honeytokens: Piece of data or resource that have no legitimate value or use but is monitored for access or use.
+
 - Some Disruption technique and strategies used by enterprise networks are:
-    - Bogus DNS entries:
-    - Creating decoy Directories:
-    - Dynamic page generation:
-    - Use of port Triggering to hide services:
-    - Spoofing Fake telemetry Data:
+    - Bogus DNS entries: Fake DNS system entries in enterprise system's DNS server
+
+    - Creating decoy Directories:  Fake folders and files placed within a system's storage
+
+    - Dynamic page generation: Generating fake page with random text which protects against automatic scraping tools or bot trying to stealing Index or content of the website. 
+
+	- Use of port Triggering to hide services:  Port triggering is a mechanism in which until a specific patten of traffic is met it remains closed until then.
+    
+	- Spoofing Fake telemetry Data: When the system detects that it is being scanned by an external entity , the system can be configured such that it will respond by generating and sending fake data to that scan.
 
 
 
