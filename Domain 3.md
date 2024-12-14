@@ -7,4 +7,8 @@
 
 Fencing and bollards stand out as some of the most primitive tools that are employed to safeguard assets and people
 ### Attacking with Brute Force
+In this 
+
+
+
 
