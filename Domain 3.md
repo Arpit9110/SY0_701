@@ -22,11 +22,55 @@ Fencing and bollards stand out as some of the most primitive tools that are empl
 Organized strategy or setup designed to observe and report activities in a given area 
 
 Surveillance is often comprised of four main categories 
+
 - Video Surveillance: It includes these following things:
     - Remote access
     - Can include the following:
         - Motion Detection
         - Night vision 
-        - Facial Recognition
-    - Real - Time Visual Feedback
-    - 
+        - Facial Recognition 
+        - Real - Time Visual Feedback
+        A wired version  of this is camera physically connected back to the central monitoring station. Wireless version of this relies on Wi-Fi to transmit the data back to the central monitoring system.  Morden cameras comes wit **Pan-Tilt-zoom** system which helps to position camera in a better angle view over all possible angle. Camera should always be configures to record what they observe.
+        Best Place to setup camera are:
+	     - Data Center 
+	     - Telecommunication closet
+          - Entrance and exit areas
+
+- Security Guard
+     Flexible and adaptable form of surveillance that organization use. It helps to reassure your staff or your customers that they are safe.
+
+- Lighting 
+     Proper lighting is crucial for conducting effective surveillance using both video or security guard. If a well lit area created  is created it can deter criminal, reduce shadows, reduce hiding spots ad enhance the quality of your video recordings.
+
+- Sensors
+    These are the devices that detect and respond to external stimuli or changes in the environment. There are four major category of sensor.
+     
+    - Infrared Sensors:  Detect changes in infrared radiation that is often emitted by  warm bodies like humans or animals 
+    
+	- Pressure Sensors: Activated whenever a specified minimum amount of weight is detected on the sensor that is embedded into the floor or a mat 
+    
+	- Microwave Sensors: Detect movement in an area by emitting microwave pulses and measuring their reflection off moving objects 
+    
+	- Ultrasonic Sensors: This sensor Measures the reflection of ultrasonic waves off moving objects.
+### Bypassing Surveillance Systems 
+
+   Some of the different methods used by attacks to bypass the organization's  surveillance systems are: 
+   - Visual  Obstruction : In this camera's line of sight is blocked by using various methods like : 
+     - Spraying paint or foam onto the camera lens.
+     - Placing a sticker or tape over the lens. 
+    - Positioning objects like balloons or umbrellas in front of the cameras to block it's view.
+- Blinding Sensor and Cameras : This method involves overwhelming the sensor or cameras with sudden burst of light to render it ineffective for limited period of time.
+
+- Interfering with Acoustics : In this method the attacker jams the acoustic system or by playing loud music making microphone ineffective.   Acoustic system are designed to listen to the environment to detect if someone is in the area or to eavesdrop on their conversations. 
+
+- Interfering with Electromagnetic : EMI Electromagnetic Interference (EMI). This Attack involves jamming the monitoring system's signals with the help of electromagnetic Waves.
+
+- Attacking the Physical Environment : Exploit the environment around the surveillance equipment to compromise their functionality.
+
+- Physical tampering like cutting wires or physically disabling devices is an effective strategy to bypass surveillance systems.  
+
+Modern Surveillance system are equipped with countermeasure to help protect surveillance system from the countermeasure.
+
+
+
+
