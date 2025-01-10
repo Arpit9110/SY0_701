@@ -7,8 +7,10 @@
 
 Fencing and bollards stand out as some of the most primitive tools that are employed to safeguard assets and people
 ### Attacking with Brute Force
+
    Brute Force In Cyber space
     In this attack  access to a system is gained by simply trying all of the possibilities until you break through. 
+
    Brute force In Physical Security
    - Forcible Entry: Act of gaining  unauthorized access to a space by breaking or bypassing physical barriers like doors windows fences etc. This can be prevented by using High strength doors with deadbolt lock, metal frames, or solid core. 
    
