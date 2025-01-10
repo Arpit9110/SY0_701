@@ -73,14 +73,40 @@ Modern Surveillance system are equipped with countermeasure to help protect surv
 
 
 ### Access Control Vestibules
-Access control Vestibules
+Access control Vestibules: It as a system of  two doors which are electronically controlled to ensure that only one door can be open at a given time. These  helps in preventing the incident like tailgating and piggybacking. 
 
+  - Piggybacking: In this incident 2 people , one of them authorized intentionally lets the  another unauthorized individual to enter the secure premises with them.
+  
+  - Tailgating: In this unauthorised individual closely follow the authorised individual and get into the secure space without the knowledge and consent of the authorized individual.
+The difference between both the incident is of consent of the authorised personal in the case of tailgating the unauthorized personal do not have the consent of the authorised personal and vice a versa in the piggybacking case.
 
+Access control vestibules are usually integrated with electronic badges and operated by a security guard to secure facility or office building. 
+Badges contain technology like:
+  - RFID (Radio-Frequency Identification)
+  - NFC (Near-field Communication)
+  - Magnetic strip
+  The guard at the access control vestibules provides: 
+   - Visual deterrent
+   - Assistance
+   - Check Identity
+   - Response
+   
+### Door Locks
+these are the critical security control measure designed to restrict and regulate access to a specific spaces or properties, preventing unauthorised intrusions and safeguard the sensitive data and individuals.
 
-
-
-
-
+Types of door Locks
+  - Traditional Padlocks : These are easily defeated and  offer minimum protection
+  
+  - Basic Door looks :  These vulnerable to simple techniques like lock picking.
+  
+  - Modern Electronic Door Locks : These utilize various authentication methods for enhanced security. Authentication Method are:
+	- Identification Numbers
+	- Wireless Signals
+	- Biometrics
+  - Cipher Locks
+	
+  
+  
 
 
 
