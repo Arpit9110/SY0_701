@@ -102,20 +102,49 @@ Types of door Locks
   - Basic Door looks :  These vulnerable to simple techniques like lock picking.
   
   - Modern Electronic Door Locks : These utilize various authentication methods for enhanced security. Authentication Method are:
-	- Identification Numbers
-	- Wireless Signals
-	- Biometrics
-  - Cipher Locks
-  - 
+
+	- Identification Numbers :  I requires the entry of a unique code providing a balance of security and convenience
+
+	- Wireless Signals : It utilizes technologies like NFC, Wi-Fi Bluetooth or RFID for unlocking
+
+	- Biometrics : It rely on physical characteristic like fingerprint, retinal scan, or facial recognition for authentication 
+
+		 Challenges in Biometric:
+		 - False Acceptance Rate(FAR):  It occurs when the system erroneously authenticates an unauthorised user.   Lower FAR means increasing scanner sensitivity
+		 - False Rejection Rate(FRR): Denies access to an authorized user. Adjusting sensitivity can increase FRR
+		 - Crossover Error Rate (CER): A balance between FAR and FRR for optimal authentication effectiveness. 
+
+		Some electronic door locks use multiple factors such as an identification number and Fingerprint to increase security. 
+		
+
+  - Cipher Locks : In this lock there is a mechanical locks with numbered push buttons, requiring a correct combination to open. It is commonly used in high-security areas like server room, document room.
+	Secure entry areas in office building, often use electronic access system with badges and pins for authentication. 
 	
-  
-  
+### Access Badge Cloning
 
+In Access badges RFID (Radio frequency Identification ) and NFC (Near Field Communication) are the most popular technologies used for contactless authentication in various applications.
 
+In Access badge cloning  the data is copied from RFID or NFC card or badge to another card or device. 
 
+Steps to clone an access card :
+Step 1:  Scanning or reading the targeted individual's access badge or card.
 
+Step 2: Attacker the extract the relevant authentication credential from the card such as unique identifier or a set of encrypted data.
 
+Step 3: Attacker then transfer the extracted data onto a blank card or badge.
 
+Step 4: The attacker the use the cloned access badge or card to access the unauthorised building, computer system or a premise.
 
+Access badge cloning is common because of it's:
+- Ease of execution.
+- Ability to be stealthy when conducting an attack.
+- Potentially widespread use in compromising physical security.
 
+Preventing Access badge cloning: 
+- Implement Advance encryption in your card-based authentication systems.
+- Implement Multi-factor Authentication (MFA).
+- Regularly update your security protocols.
+- Educate your user.
+- Implement the use of shielded wallets or sleeves with your RFID access badge.
+- Monitor and audit your access logs.
 
