@@ -13,4 +13,5 @@ There are six major type of motivational triggers that social engineers use
 	- Sexual Attraction 
 	- Pretending to be a friend
 	- Common Interest
-- Fear : These types of attack generally are focused on "If you don't do what I tell you, Then this bad thing is going to happen to you.". They also make use of  FOMO i.e fear of missing out 
+- Fear : These types of attack generally are focused on "If you don't do what I tell you, Then this bad thing is going to happen to you.". They also make use of  FOMO that is  fear of missing out.
+- 
