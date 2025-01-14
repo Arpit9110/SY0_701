@@ -31,4 +31,9 @@ There are four  main form of impersonation that attacker use:
 		2. Use secure emails gateways to filter out phishing emails.
 		3. Regularly monitor their brand's online presence to detect any fraudulent activities as soon as they occur. 
 - Typosquatting:
-
+	It is also known as URL hijacking or cybersquatting. It is basically a from of cyber attack where an attacker will register a domain name that is similar to a popular website but will contain some kind of common typographical errors which will misguide many legitimate user. 
+	To prevent this type of attack an organization can do following things:
+	1. Register common misspelling of their own domain names.
+	2. Use services that monitor for similar domain registrations.
+	3. Conduct user security awareness training to educate user about the risk of typosquatting. 
+### Water Hole Attacks
