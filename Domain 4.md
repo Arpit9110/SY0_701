@@ -36,4 +36,10 @@ There are four  main form of impersonation that attacker use:
 	1. Register common misspelling of their own domain names.
 	2. Use services that monitor for similar domain registrations.
 	3. Conduct user security awareness training to educate user about the risk of typosquatting. 
-### Water Hole Attacks
+- Water Hole Attacks
+	It is a targeted form of cyber security where attacker compromises a specific website or service that their target known to use. They  do this with the knowledge that the target will most definitely will access this service. The term water hole is metaphor taken from hunting. Rather than tracking its prey over a long distance, the hunter instead determines where the prey is likely to go, most commonly to a body of water -- the watering hole -- and the hunter waits there. When the prey comes of its own will, often with its guard down, the hunter attacks. 
+	To mitigate Watering hole attacks an organization can do following things:
+	1. Keep their system and software updated.
+	2. Use threat Intelligence service to stay informed about new threats.
+	3. Employ advanced malware detection and prevention tools.
+### Pretexting 
