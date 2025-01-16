@@ -43,3 +43,10 @@ There are four  main form of impersonation that attacker use:
 	2. Use threat Intelligence service to stay informed about new threats.
 	3. Employ advanced malware detection and prevention tools.
 ### Pretexting 
+
+   In this type of attack the attacker gives sone pretext of data and the user or the victim more or the rest of the information. The mitigation of this type of attack involves training the employee not fall for the pretext and not to fill in the  gaps for people when they are calling.
+
+Phishing Attacks
+There are different types of phishing attacks:
+- Phishing : 
+
