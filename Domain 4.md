@@ -48,5 +48,4 @@ There are four  main form of impersonation that attacker use:
 
 Phishing Attacks
 There are different types of phishing attacks:
-- Phishing : 
-
+- Phishing 
