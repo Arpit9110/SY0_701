@@ -94,3 +94,7 @@ Mitigation
 - Analyse the threat .
 - Inform all users about the threat .
 - An organization should revise its security measures for every success phishing attack.
+
+### Frauds and Scams 
+
+Fraud :  It is basically the wrongful or criminal deception that is intended to result in financial or personal gain for the attacker. One of the most common type of fraud that one 
