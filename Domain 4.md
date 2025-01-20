@@ -97,4 +97,29 @@ Mitigation
 
 ### Frauds and Scams 
 
-Fraud :  It is basically the wrongful or criminal deception that is intended to result in financial or personal gain for the attacker. One of the most common type of fraud that one 
+**Fraud** :  It is basically the wrongful or criminal deception that is intended to result in financial or personal gain for the attacker. One of the most common type of fraud that one encounter the most is identity theft or identity fraud. 
+Identity fraud and identity theft involves the use of another person's personal information without their authorised to commit a crime or to deceive or defraud that other person or some other third party.
+
+**Difference between Identity Theft and Identity Fraud is :**
+**In identity Fraud the attacker takes the victim's credit card number and charges item to the card, where as in identity Theft, the attacker tries to fully assume the identity of their victim.** 
+
+**Scam** : It is the fraudulent or deceptive act or a operation. The most common scam is called the invoice scam,.     Invoice Scam: In this scam a person is tricked into paying for a fake invoice for a product or a service that they did nor actually order.
+
+### Influence campaigns
+
+Influence Campaigns : It is a coordinated effort to affect the public perception or behaviour toward a particular cause, individual or a group of people. This a very powerful tool for shaping opinion and behaviour of the people.  To create  successful influential campaign one uses both misinformation and disinformation.
+Misinformation: False or inaccurate information shared without harmful intent.
+Disinformation: It involves the deliberate creation and sharing of false information with the intent to deceive or mislead.
+
+**** Misinformation and Disinformation can have serious consequences because thay can undermine public trust in institution, fuel social division, and even influence the outcome of the election. ****
+
+### Common Social Engineering attacks 
+
+- Diversion Theft :
+- Hoaxes :
+- Shoulder Surfing: 
+- Dumpster Surfing: 
+- Dumpster Diving :
+- Eavesdropping :
+- Baiting : 
+- Piggybacking and Tailgating :
