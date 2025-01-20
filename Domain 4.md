@@ -89,8 +89,8 @@ Some commonly used key indicator that are associated with phishing attacks are:
 - Poor Spelling or grammar: If an email has a lot of "Broken English", poor grammar, or numerous spelling errors, the it's like to be an phishing campaign.
 
 Mitigation
-- Training
-- Report suspicious messages to protect your organization from potential phishing attacks 
-- Analyse the threat 
-- Inform all users about the threat 
-- An organization should revise its security measures for every success phishing attack
+- Training.
+- Report suspicious messages to protect your organization from potential phishing attacks .
+- Analyse the threat .
+- Inform all users about the threat .
+- An organization should revise its security measures for every success phishing attack.
