@@ -48,4 +48,49 @@ There are four  main form of impersonation that attacker use:
 
 Phishing Attacks
 There are different types of phishing attacks:
-- Phishing 
+- Phishing:  In Phishing attack the attacker sends fraudulent emails that appears to be from reputed source with the aim of convincing individual to reveal personal information such as password and credit card number
+
+- Spear Phishing: It is more targeted form of phishing attack used by cybercriminal who are more tightly focused on a specific group of individual or organizations. It usually has a higher success rate.
+
+- Whaling: It is a form of spear phishing that targets high profile individual like CEO's or CFO's. The attacker wants to attack the executive, board member or higher manage of the organization as they have more potential for greater reward. It is often regarded as an initial step to compromise an executive's  account for subsequent attacks within their organization.
+
+- Business Email Compromise (BEC): This a sophisticated type of attack that usually targets business by using one of their internal email account to get their employee to perform some malicious attack in behalf of the attackers. This attack involves taking over a legitimate business email through social engineering or use cyber intrusion technique to conduct unauthorised funds transfer redirect payment or steal sensitive information.
+
+- Vishing (Voice Phishing): In this attack the attacker tricks their victim into sharing personal or financial information over phone.
+
+- Smishing ( SMS Phishing): It involves the use of text message to trick individual into providing their personal information.
+### Preventing Phishing attacks
+
+Phishing  attacks can be prevented by implementing the right strategies and providing user strategies and providing user security awareness training, the threat of a successful phishing campaign against your organization ca be mitigated effectively.
+
+Anti Phishing Campaign: Essential user security awareness training tools that can be used to educate individual about the risk of phishing and how to best identify potential phishing attempts. Should offer remedial training for user who fell victim to simulate phishing emails.
+
+
+To help prevent phishing your organization should regularly conduct user security awareness training that contain coverage of the various phishing techniques such as :
+- Phishing
+- Spear phishing
+- Whaling
+- Business Email Compromise
+- Vishing
+- Smishing
+- Along with other relevant cyber attacks and threats that may affect your organization.
+
+
+Some commonly used key indicator that are associated with phishing attacks are:
+
+- Urgency : Phishing emails often create a sense of urgency by promoting the recipient to act immediately.
+
+- Unusual Requests : If you receive an email requesting sensitive information such as password or credit card details, you should treat these email with a lot of suspicion.
+
+- Mismatch URLs : In HTML-based emails, the visible text of a hyperlink (display text) can be different from the actual URL it points to. This is a common tactic used in phishing attacks, where a link might appear to direct you to a legitimate website but actually leads to a malicious one.                                                                                                   To check if the text-based link matches the underlying URL, you should always hover your mouse over the link in the email for a few seconds and this will reveal the actual URL that the link is connected to
+
+- Strange Email Addresses : If the real email address and the displayed email address  don't match then the email should be treated as suspicious and possibly part of a phishing campaign.
+
+- Poor Spelling or grammar: If an email has a lot of "Broken English", poor grammar, or numerous spelling errors, the it's like to be an phishing campaign.
+
+Mitigation
+- Training
+- Report suspicious messages to protect your organization from potential phishing attacks 
+- Analyse the threat 
+- Inform all users about the threat 
+- An organization should revise its security measures for every success phishing attack
