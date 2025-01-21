@@ -115,11 +115,19 @@ Disinformation: It involves the deliberate creation and sharing of false informa
 
 ### Common Social Engineering attacks 
 
-- Diversion Theft :
-- Hoaxes :
-- Shoulder Surfing: 
-- Dumpster Surfing: 
-- Dumpster Diving :
-- Eavesdropping :
-- Baiting : 
-- Piggybacking and Tailgating :
+- Diversion Theft : It involves manipulating a situation and creating a distraction to steal valuable item or information. 
+
+- Hoaxes : These are the malicious deception that is often spread through social media, email or other communication channels. These are often paired with phishing attacks and impersonation attacks. To prevent hoaxes people must fact check and use good critical thinking skills. 
+
+- Shoulder Surfing: It involves looking over someone's shoulder to gather personal information. It involves the use of high powered cameras or closed-circuit television camaras to steal information from a distance. To prevent shoulder surfing, user must be aware of their surrounding when providing any sensitive information.
+
+- Dumpster Diving: It involves searching through trash to find valuables information. Commonly used to find discarded documents containing personal or corporate information. To prevent this dumpster surfing the organisation must use Clean desk and clean Desktop policies. 
+
+- Eavesdropping : It involves the process of secretly  listening to private conversations. Perpetrator intercepts the communication of parties without their knowledge. To prevent this one should use the encryption while the data is in  transit. 
+
+- Baiting :  It involves leaving a malware-infected physical device, like USB drive, in an place where an victim can find it, who then hopefully use the device to unknowingly install malware on their organization's computer system. To prevent the baiting, the user must trained to not use devices they find. 
+
+- Piggybacking and Tailgating : These two attacks involves the unauthorised entry of malicious in secured premises. 
+	- Piggybacking : Attacker attempts to follow an employee through an access control vestibule or access control point without their knowledge
+	
+	- Tailgating : Involves an attacker convincing an authorized employee to let them into the facility by getting the authorized employee to swipe their own access badge and allow the attacker inside the facility
