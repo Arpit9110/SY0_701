@@ -68,4 +68,8 @@ Botnets are used :
 - disguise the real attacker
 - to host illegal activities
 - To spam others by sending out phishing campaigns and other malware
-The most common use for botnets is to conduct a DDoS (Distributed Denial of Service) attack
+The most common use for botnets is to conduct a DDoS (Distributed Denial of Service) attack. 
+Most common use for a botnet is to conduct a DDoS (Distributed Denial-of-Service) attack        Distributed Denial-of-Service (DDoS) Attack : Occurs when many machines target a single victim and attack them at the exact same time 
+Botnets are used by attackers to combine processing power to break through different types of encryption schemes. Attackers usually only use about 20-25% of any zombie’s power.
+
+Rootkits
