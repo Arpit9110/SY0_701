@@ -72,4 +72,32 @@ The most common use for botnets is to conduct a DDoS (Distributed Denial of Serv
 Most common use for a botnet is to conduct a DDoS (Distributed Denial-of-Service) attack        Distributed Denial-of-Service (DDoS) Attack : Occurs when many machines target a single victim and attack them at the exact same time 
 Botnets are used by attackers to combine processing power to break through different types of encryption schemes. Attackers usually only use about 20-25% of any zombie’s power.
 
-Rootkits
+### Rootkits 
+Rootkit: These are the program that are designed to gain administrative level control over a given computer without being detected. 
+
+Account with the highest level of permission is called the administrative account. These  types of account allows the person to install program delete program, open port, shut port, and do whatever it is they want to do in that system. In Unix, Linux, MacOS computer these type of administrative account is called root account. 
+ 
+A computer have different rings of permission throughout the system.
+Ring 3 (Outermost Ring) : These are the user level permission are used.
+Ring 0 (Innermost or highest Permission Levels) : Operating in this ring 0 is called "Kernel Mode". 
+
+Kernel Mode : It allows a system to control access to thing like device drivers, your sound card, your video display or monitor, and other similar things.
+
+If you login as the administrator or root user on a system, you have root permission and you will be operating at Ring 1 of the operating system. The closer the malicious code is to the kernel, the more permissions it will have and more damage it can cause on the system.
+
+When the Rootkit is installed on a system, it tries to move from ring 1 to ring 0 so that it can hide from other function of the operating system to avoid detection.
+
+One Technique used by the rootkit to gain this deeper level of access is a DLL injection
+
+DLL injection: This technique used to run arbitrary code within the address space of another process by forcing it to load a dynamic-link library.
+
+Dynamic Link Library (DLL) : It is a collection of codes and data that can be used by multiple programs simultaneously to allow for code reuse amd moudulation in software development.
+
+Shim : This piece of software code that is placed between two components and that intercept the calls between component and can be used to redirect them.
+
+Rootkits are extremely powerful and are very difficult to detect as the operating system is essentially blind to them.
+
+the best way to detect them it to mount live bootable Linux distribution OS from a external device and scan the the whole internal drive. always use high quality antimalware and scanning software as these are very hard to detect.
+
+
+### Back Door
