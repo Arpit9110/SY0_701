@@ -100,4 +100,6 @@ Rootkits are extremely powerful and are very difficult to detect as the operatin
 the best way to detect them it to mount live bootable Linux distribution OS from a external device and scan the the whole internal drive. always use high quality antimalware and scanning software as these are very hard to detect.
 
 
-### Back Door
+### Back Door  and Logic Bombs
+
+
