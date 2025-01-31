@@ -102,4 +102,24 @@ the best way to detect them it to mount live bootable Linux distribution OS from
 
 ### Back Door  and Logic Bombs
 
+**Backdoor** : These were originally placed in the computer program to bypass the normal security and authentication functions. These were put into the system by designer and programmers during the development process for easier access. 
+Modern Remote Access Trojan (RAT) act just like the backdoor in todays network i.e. they maintain persistent access to that system  like using a backdoor. These are placed by the Malicious threat actor.
+
+**Easter Egg** : These are the hidden features or novelty within a program that is typically inserted by the software developer as an inside joke. These codes often have significant vulnerabilities that can hamper the security.
+
+Logic Bombs : These are the malicious code that's inserted into the program, these malicious code will only execute when certain conditions have been met.
+
+
+### Keylogger
+Keylogger : This is a Piece of software or hardware that records every single keystroke that is made on a computer or mobile device. 
+These are two types of key logger 
+
+Software Keylogger : 
+
+
+Hardware keylogger : 
+
+
+
+
 
