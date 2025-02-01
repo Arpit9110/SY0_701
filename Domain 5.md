@@ -159,5 +159,5 @@ Some malware focuses on infecting the system’s memory to leverage remote proce
 How does this modern malware work ? 
 When a user accidentally clicks on a malicious link or opens a malicious file, the specific type of malware being installed is known as a stage one dropper or downloader.
 
-- Stage1DropperorDownloader
-- 
+- Stage1  Dropper or Downloader
+- Stage2 Downloader
