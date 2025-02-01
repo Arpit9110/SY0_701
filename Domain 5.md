@@ -156,4 +156,5 @@ Specific method by which malware code penetrates and infects a targeted system
 Some malware focuses on infecting the system’s memory to leverage remote procedure calls over the organization’s network. 
 <font color="#ffff00">Most modern malware uses fileless techniques to avoid detection by signature-based security software. Fileless Malware is used to create a process in the system memory without relying on the local file system of the infected host. </font>
 
-
+How does this modern malware work ? 
+When a user accidentally clicks on a malicious link or opens a malicious file, the specific type of malware being installed is known as a stage one dropper or downloader.
