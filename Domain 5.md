@@ -151,7 +151,9 @@ To remove bloatware, you can either do the following
 - Use bloatware removal tools to uninstall the unwanted applications.
 - Perform a clean operating system installation.
 
-Malware Attack Techniques
+### Malware Attack Techniques
 Specific method by which malware code penetrates and infects a targeted system
 Some malware focuses on infecting the system’s memory to leverage remote procedure calls over the organization’s network. 
-Most modern malware uses fileless techniques to avoid detection by signature-based security software. Fileless Malware is used to create a process in the system memory without relying on the local file system of the infected host
+<font color="#ffff00">Most modern malware uses fileless techniques to avoid detection by signature-based security software. Fileless Malware is used to create a process in the system memory without relying on the local file system of the infected host. </font>
+
+
