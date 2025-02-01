@@ -111,15 +111,44 @@ Logic Bombs : These are the malicious code that's inserted into the program, the
 
 
 ### Keylogger
-Keylogger : This is a Piece of software or hardware that records every single keystroke that is made on a computer or mobile device. 
-These are two types of key logger 
 
-Software Keylogger : 
+Keylogger: Keylogger is a piece of software or hardware that records every single keystrokes that is made on the computer or mobile device.
+
+Keylogger are of two types:
+1) Software Keylogger: It is a malicious program that gets installed on the system by an attacker. These are often bundled with other software or are delivered through social engineering attacks like phishing or pretexting attacks. 
+2) Hardware Keylogger: These are the physical devices that need to be plugged in computer in order to record the data. These will resemble a USB drive or they can be embedded within the keyboard itself.
+
+To protect against these keylogger are :
+
+-Perform regular updates and patches.
+-Rely on quality antivirus and antimalware solution.
+-conduct phishing awareness training for the end user.
+-implement multi factor authentication system
+-Perform physical check of your desktop, laptop, and servers
+
+Spyware and Bloatware
+
+Spyware: These are the malicious software that is designed to gather and send information about a user or organization without it's knowledge. Spyware can get installed on a system in several different ways:
+
+Bundled with other software
+Installed through a malicious website
+Installed when user clicks on a deceptive pop-up advertisement.
+
+To protect against these spyware one should only use reputable antivirus and anti-virus tools that regularly gets updated and remove any potential threats.
+
+Bloatware: Any software that comes pre installed on a new computer or smartphone that you as a user do not requested, want or need. Other examples of bloatware are things like unnecessary toolbars or application that promote certain services.
+Bloatware isn't malicious but it can:
+- Waste your storage space
+- slow down the performance of your devices
+- Introduce security vulnerabilities into your systems
 
 
-Hardware keylogger : 
+**<font color="#ffff00"> Remember anytime a piece of software is installed, that is one more potential threat vector for an attacker to exploit if you don’t properly update that application </font>
 
+To remove bloatware, you can either do the following 
 
+- Do a manual removal process.
+- Use bloatware removal tools to uninstall the unwanted applications.
+- Perform a clean operating system installation.
 
-
-
+Malware Attack Techniques
