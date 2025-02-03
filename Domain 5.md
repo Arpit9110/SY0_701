@@ -156,8 +156,56 @@ Specific method by which malware code penetrates and infects a targeted system
 Some malware focuses on infecting the system’s memory to leverage remote procedure calls over the organization’s network. 
 <font color="#ffff00">Most modern malware uses fileless techniques to avoid detection by signature-based security software. Fileless Malware is used to create a process in the system memory without relying on the local file system of the infected host. </font>
 
-How does this modern malware work ? 
-When a user accidentally clicks on a malicious link or opens a malicious file, the specific type of malware being installed is known as a stage one dropper or downloader.
+How does this modern malware works? 
 
-- Stage1  Dropper or Downloader
-- Stage2 Downloader
+When user accidentally clicks on a malicious link or opens a malicious file, the specific type of malware being installed is called as a stage one dropper or downloader
+
+Stage 1 Dropper or Downloader : Piece of malware that is usually created as a lightweight shellcode that can be executed on a given system
+
+Dropper : Specific malware type that is designed to initiate or run other malware forms with in a payload on an infected host.
+
+Downloader : These retrieve additional tools post the initial infection facilitated by a dropper.
+
+The primary function of a stage one dropper or downloader is to retrieve additional portions of the malware code and to trick the user into activating it.
+
+Shellcode : This is the broader term used to encompass lightweight code meant to execute an exploit on a given target.
+
+Stage 2 Downloader: It downloads and installs a remote access trojan to conduct command and control on the victimized system. 
+
+
+"Action on Objective' Phase : Threat actors will execute primary objective to meet core objectives like :
+ - Data exfiltration
+ - File Encryption
+ 
+ Concealment : Use to help the threat actor prolong unauthorized access to a system by :
+   - Hiding Tracks
+   - Erasing log files
+   - Hiding any evidence of malicious activity.
+   
+"Living off the land "
+It is a strategy adopted by many Advance Persistent Threats and criminal organizations. The threat actor try to exploit the standard tools to perform intrusions.
+
+### Indication of malware Attacks
+
+9 Common indicator of malware Attacks are;
+
+1. Account Lockouts : In this the Malware, especially those designed for credential theft or brute force attacks, can trigger multiple failed login attempts that would result in user's account being locked out.
+
+2. Concurrent Session Utilization : If you notice that a single user account has multiple simultaneous or concurrent session open, especially from various geographic locations, then it can be a attack.
+
+3. Blocked Content : If there is sudden increase in the amount of blocked content alert you see from your security tool, might be an indication to an attack.
+
+4. Impossible Travel : It refers to a scenario where a user's account is accessed from two or more geographically separate location in an impossibly short period of time.
+
+5. Resource consumption : If there is an unusual spike in CPU, Memory, or network bandwidth utilization that cannot be linked to a legitimate task.
+
+6. Resource Inaccessibility : If a large number of files or critical systems suddenly become inaccessible or if users receive messages demanding payment to decrypt their data. then it might be an Ransomware Attack.
+
+7. Out-of-Cycle Logging : If you are noticing that your logs are being generated at odd hours or during times when no legitimate activities should be taking place. (like in middle of night etc).
+
+8. Missing logs : If you are conducting a log review as a cybersecurity analyst and you see that there are gaps in your logs or if the logs have been cleared without any authorized reason. 
+
+9. published or documented attack : If a cybersecurity research or reporter published a report that shows that your organization’s network has been infected as part of a botnet or other malware-based attack.
+
+
+
