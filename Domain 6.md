@@ -38,21 +38,21 @@ Note: Understanding data classification and their proper handling is vital for p
 
 
 Data Ownership :  
- 
- Data Ownership : 
- 
- Data Owner :
- 
- Data Controller :
- 
- Data Processor : 
- 
- Data Steward : 
- 
- Data Custodian : 
- 
- Privacy Officer :
- 
- Data Ownership Responsibility : 
- 
- Selection of Data Owners :
+
+Data Ownership : 
+
+Data Owner :
+
+Data Controller :
+
+Data Processor : 
+
+Data Steward : 
+
+Data Custodian : 
+
+Privacy Officer :
+
+Data Ownership Responsibility : 
+
+Selection of Data Owners :
