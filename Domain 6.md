@@ -137,11 +137,11 @@ Encryption: Transform plaintext into ciphertext using algorithms and keys. It pr
 Hashing: This converts data into fixed-size hash values. this is a irreversible one-way function. It is commonly used for password storage.
 
 
-Masking:
+Masking: It replaces some or all of the data with placeholder like "X", "@", "#" etc. It partially retain the metadata for analysis. It is a irreversible de-identification method.
 
-Tokenization:
+Tokenization: In this process the sensitive data is replaced with non-sensitive tokens. Original data is stored securely in a separate database. It is often used in payment processing for credit card protection. 
 
-Obfuscation:
+Obfuscation: It makes data unclear or unintelligible. It basically hiders the unauthorised understanding of data. The various technique used includes encryption, masking and pseudonyms.
 
 Segmentation:
 
