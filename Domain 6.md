@@ -143,8 +143,9 @@ Tokenization: In this process the sensitive data is replaced with non-sensitive 
 
 Obfuscation: It makes data unclear or unintelligible. It basically hiders the unauthorised understanding of data. The various technique used includes encryption, masking and pseudonyms.
 
-Segmentation:
+Segmentation: It divides the network into separate segment with  segments with unique security codes. Prevents lateral movement in case of a breach. It also limits the potential of damage.
 
-Permission Restriction:
+Permission Restriction: Defines data access and actions through ACL's or RBAC. It restrict access to authorized user by which it reduces the risk of internal data breach. 
  
-Data Loss Prevention (DLP)
+#### Data Loss Prevention (DLP)
+Data Loss prevention (DLP): 
