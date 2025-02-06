@@ -154,7 +154,7 @@ Types of DLP system:
 
 - Endpoint DLP system: It is installed as software on workstations or laptops. It monitors data in use on individual computers. It can prevent or alert on file transfers based on predefined rules.
 
-- Network DLP system: 
+- Network DLP system: It can be a Software or hardware, placed at the network perimeter. It focuses on monitoring data entering and leaving the network. It detects unauthorized data leaving the network.
 
 - Storage DLP system: It is installed on a server in the data centre. It inspect the data at rest , especially encrypted or watermarked data. Monitors data access pattern and flags policy violations. 
 
