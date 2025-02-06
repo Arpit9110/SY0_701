@@ -148,4 +148,14 @@ Segmentation: It divides the network into separate segment with  segments with u
 Permission Restriction: Defines data access and actions through ACL's or RBAC. It restrict access to authorized user by which it reduces the risk of internal data breach. 
  
 #### Data Loss Prevention (DLP)
-Data Loss prevention (DLP): 
+Data Loss prevention (DLP): It aims to monitor data in use, in transit, or at rest to detect and prevent data theft. DLP system have both software and hardware solutions.
+
+Types of DLP system: 
+
+- Endpoint DLP system: It is installed as software on workstations or laptops. It monitors data in use on individual computers. It can prevent or alert on file transfers based on predefined rules.
+
+- Network DLP system: 
+
+- Storage DLP system: It is installed on a server in the data centre. It inspect the data at rest , especially encrypted or watermarked data. Monitors data access pattern and flags policy violations. 
+
+- Cloud-based DLP system: It is offered as a software as a service solution. It protects data stored in cloud services.
