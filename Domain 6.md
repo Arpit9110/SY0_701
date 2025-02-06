@@ -124,18 +124,18 @@ Non Human Readable Data : These data requires machine or software to be decoded 
 - Access Restrictions: cloud services may restrict access for multiple geogrphic loaction due to data protection laws and data sovereignty of that particular geographical location.
  
 - Data sovereignty and geographical considerations pose complex challenges, but
-- organizations can navigate them successfully with planning, legal guidance, and strategic
-- technology use, ensuring compliance and data protection
+- organizations can navigate them successfully with planning, legal guidance, and strategic technology use, ensuring compliance and data protection
 
 
 
 #### Securing Data 
 
-Geofencing Restrictions: 
+Geofencing Restrictions:  These  are boundaries to restrict data access based on location. These comply with data sovereignty laws. It  Prevent unauthorized access from high-risk locations.
 
-Encryption:
+Encryption: Transform plaintext into ciphertext using algorithms and keys. It protects data at rest and in transit. It requires decryption key for data recovery or accessing by the authorized user.
 
-Hashing:
+Hashing: This converts data into fixed-size hash values. this is a irreversible one-way function. It is commonly used for password storage.
+
 
 Masking:
 
