@@ -59,18 +59,18 @@ Documentation : Organizational policies should clearly outline data classificati
  NOTE: Proper data ownership is essential for maintaining data security, compliance, and effective data management within an organization. Different roles contribute to safeguarding and managing data appropriately.
  
  
- #### Data States
+#### Data States
  
- Data at Rest : This the data that is stored in the database, file system, or a storage system, not actively moving or being used.
+**Data at Rest** : This the data that is stored in the database, file system, or a storage system, not actively moving or being used.
  
  Encryption Methods : 
-  Full Disk Encryption (FDE) : Encrypts the entire Hard drive.
-  Partation Encryption: Encrypts specific partations, leaving others unencrypted.
-  File Encryption: Encrypts individual files.
-  Volume Encryption: Encrypts data stored in a database at column, row, or table levels.
-  Record Encryption: Encrypt specific fields within a database record.
+  - Full Disk Encryption (FDE) : Encrypts the entire Hard drive.
+  - Partation Encryption: Encrypts specific partations, leaving others unencrypted.
+  - File Encryption: Encrypts individual files.
+  - Volume Encryption: Encrypts data stored in a database at column, row, or table levels.
+  - Record Encryption: Encrypt specific fields within a database record.
   
- Data in Transit(Data in motion): Data in transit is basically the data actively moving from one location to another, vulnerable to interception.
+**Data in Transit(Data in motion):** Data in transit is basically the data actively moving from one location to another, vulnerable to interception.
   Transport Encryption Methods are:
   
 - SSL (secure Sockets Layer) and TLS (Transport layer security): Secure communication over network, widely used in web browsing and email.
@@ -79,8 +79,8 @@ Documentation : Organizational policies should clearly outline data classificati
 
 - IPSEC (Internet protocol security): Secures IP communications by authenticating and encrypting IP packets.
 
- Data in Use: In this the data is actively being used and undergoes many process like data being created, retrieved, updated, or deleted.
- Protection measure:  
+**Data in Use:** In this the data is actively being used and undergoes many process like data being created, retrieved, updated, or deleted.
+Protection measure:  
  - Encryption at the application Level: Encrypt data during processing.
  - Access control: Restrict access to data during processing.
  - Secure Enclaves: Isolate environment for processing sensitive data.
@@ -89,48 +89,43 @@ Documentation : Organizational policies should clearly outline data classificati
 <font color="#ffff00">Note: Understanding the three data state (Data at rest, Data in transit, Data in Use) and implementing appropriate security measure for each is essential for comprehensive data protection.</font>
 
 
-
-
-
-
 #### Data Types: 
 
-Regulated Data: This is the data controlled by laws, regulatio, or company standards. 
+Regulated Data: This is the data controlled by laws, regulation, or company standards. 
 Compliance requirements for this type of data can be : 
-GDPR General Data Protection Regulation.
-HIPPA Health insuarance portability and accountability Act.
+- GDPR General Data Protection Regulation.
+- HIPPA Health insurance portability and accountability Act.
 
-PII (Personal Identification Information) : Information used to identify an individual (eg : name, Social security number, Address, etc). Thses types of information is often targeted by cybercriminal and are protected by Privacy law.
+PII (Personal Identification Information) : Information used to identify an individual (e.g. : name, Social security number, Address, etc). These types of information is often targeted by cybercriminal and are protected by Privacy law.
 
-PHI (persona Health Information) : Information ablut health status, healthcare provision, or payment linked to a specific individual. Thses types of data is protected by HIPPA.
+PHI (persona Health Information) : Information about health status, healthcare provision, or payment linked to a specific individual. These types of data is protected by HIPPA.
 
-Trade Secrets : Confidential business information giving a comnpetitive edge(e.g manufacturing process, making strategies, porpriety software.) These data are legally protected and unauthorised disclosure of these data result in penalties.
+Trade Secrets : Confidential business information giving a competitive edge(e.g. manufacturing process, making strategies, propriety software.) These data are legally protected and unauthorised disclosure of these data result in penalties.
 
-Intellectual Property (IP): These data includes things like inventions, literary works, designs , research papers etc. These type of data are protected by patent, copyrights, trademarks to encourage innovation without frear of it getting stolen with repercrutions. Unauthorised use can lead to legal action.
+Intellectual Property (IP): These data includes things like inventions, literary works, designs , research papers etc. These type of data are protected by patent, copyrights, trademarks to encourage innovation without fear of it getting stolen with repercussions. Unauthorised use can lead to legal action.
 
-Legal Information: These are the data related to legal procedding, contracts, regulatory compliance, etc. These require high level of protection for client confidentiality and legal privilege.
+Legal Information: These are the data related to legal proceeding, contracts, regulatory compliance, etc. These require high level of protection for client confidentiality and legal privilege.
 
-Finanacial Information: Data related to financial transaction e.g. salse record, tax document, bank satatements. These re targeted by crybercriminals form fraud and identity theft.Thses data are subjected to PCI DSS (Payment card industry Data Security Standards).
+Financial Information: Data related to financial transaction e.g. sales record, tax document, bank statements. These re targeted by cybercriminals form fraud and identity theft. These data are subjected to PCI DSS (Payment card industry Data Security Standards).
 
-Human  Redable Data: Understand directly by humans eg text document , steadsheet, word file etc.
+Human  Readable Data: Understand directly by humans e.g. text document , spreadsheet, word file etc.
 
-Non Human redabe Data : These data requires machine or software to be decoded or interpreted. thses data are generally in binary code, machine language. These contains sensitive information and requires protection.
+Non Human Readable Data : These data requires machine or software to be decoded or interpreted. These data are generally in binary code, machine language. These contains sensitive information and requires protection.
 
 
 #### Data Sovereignty 
 
- Data Sovereignty : Digital information subjected to laws of the country where it's located. It recently gained huge importance due highly global data storage and cloud computing solutions.
+ - Data Sovereignty : Digital information subjected to laws of the country where it's located. It recently gained huge importance due highly global data storage and cloud computing solutions.
  
- GDPR (General data protection Regulation) : Protects the EU's citizens data with EUand EEA boarders. This compliance is required regardless of data location. Non-compliance leads to significant fines.
+ - GDPR (General data protection Regulation) : Protects the EU's citizens data with EUand EEA boarders. This compliance is required regardless of data location. Non-compliance leads to significant fines.
  
- 
- Data Sovereignty Laws(e.g. China Russia): Require data storage and processing within nation borders. It is a huge challange for multinational companies and cloud services. 
+- Data Sovereignty Laws(e.g. China Russia): Require data storage and processing within nation borders. It is a huge challenge for multinational companies and cloud services. 
    
- Access Restrictions: cloud services msy restrict access for multiple geogrphic loaction due to data protection laws and data sovereignty of that particular geographical location.
+- Access Restrictions: cloud services may restrict access for multiple geogrphic loaction due to data protection laws and data sovereignty of that particular geographical location.
  
- Data sovereignty and geographical considerations pose complex challenges, but
-organizations can navigate them successfully with planning, legal guidance, and strategic
-technology use, ensuring compliance and data protection
+- Data sovereignty and geographical considerations pose complex challenges, but
+- organizations can navigate them successfully with planning, legal guidance, and strategic
+- technology use, ensuring compliance and data protection
 
 
 
@@ -150,6 +145,6 @@ Obfuscation:
 
 Segmentation:
 
-Permission Restriction
+Permission Restriction:
  
- Data Loss Prevention (DLP)
+Data Loss Prevention (DLP)
