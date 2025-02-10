@@ -19,4 +19,4 @@ Encrypts data bit-by-bit or byte-by-byte in a continuous stream. It uses a keyst
 
 #### Block Cipher
 
-This method breaks input data into fixed-size blocks before encryption
+This method breaks input data into fixed-size blocks before encryption, usually 64, 128, or 256 bits at a time. Padding added to smaller data blocks to fit the fixed block size. Advantages include ease of implementation and security. Canbeimplementedinsoftware, whereas stream ciphers are often used in hardware solutions
