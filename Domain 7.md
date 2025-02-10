@@ -19,3 +19,4 @@ Encrypts data bit-by-bit or byte-by-byte in a continuous stream. It uses a keyst
 
 #### Block Cipher
 
+This method breaks input data into fixed-size blocks before encryption
