@@ -232,4 +232,21 @@ Trust in Digital Certificates:
 
 Blockchain
 
- Blockchain:
+ Blockchain: It shared immutable ledger for transactions and asset tracking. It is build to increase trust and transparency. It is widely associated with cryptocurrencies like bitcoin, dog-coin, etc. It is essentially a really long series of information with each block containing information in it. Each block has the hash for the block before it.
+ Block Structure :
+  Chain of block, each containing 
+   - Previous Block's hash
+   - Timestamp
+   - Root Transactions(Hashes of individual transaction)
+ Blocks are linked together in a chronological order
+ 
+ Public ledger : It is more secure and more anonymous record keeping system. It maintain participant's identities. It tracks the cryptocurrency balances. It records all the genuine transactions in a network.
+
+Blockchain Applications
+ - Smart Contracts: It basically the self executing contract with code defined terms. It execute action automatically when the condition is/are met. It is transparent, tamper proof and trust-enhancing.
+
+  - Commercial Uses:  Companies like IBM promote blockchain for commercial purposes, as these enhances trust and transparency with immutable public ledger.
+  
+  - Supply Chain Management: There is Transparency and traceability in the supply chain. There is immutable records of product origin, handling, and distribution. It Ensures compliance and quality control. 
+  Broad Implications of Blockchain
+  
