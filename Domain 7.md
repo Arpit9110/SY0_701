@@ -274,4 +274,45 @@ Secure Enclaves : It is basically a coprocessor integrated into the main process
 
 ### Obfuscation
 
-Obfuscation Techniques in Data Security 
+
+Obfuscation technique in Data Security: 
+
+Steganography: In this process a message is concealed withing another one to hide the it's very presence. It involves altering image or data element to embed hidden. The primary goal it to prevent the suspicion that there's any hidden data at all. It is used alongside encryption for added security. The detection of data is very challenging dur to it hidden in the plain sight.
+
+Tokenization: In this method the sensitive data is substituted with non-sensitive tokens. The original data is secured and stored somewhere else. These tokens do not have any intrinsic value. It reduces the exposure of sensitive data during the transactions. It is commonly used in for payment system to comply with the security standards.
+
+Data Masking(Data Obfuscation): In this the original data is disguised to protect sensitive information. It also maintain data authenticity and usability. It is use in testing environment, especially for software development. It reduces the risk of data breach in non-production settings. It is common in industries handling personal data. The masking of sensitive portion of data for privacy is done in this process for ex credit card number digits, social security number, etc.
+
+### Cryptographic Attacks
+
+Cryptographic Attacks: These are the techniques and strategies that adversaries employs to exploit vulnerabilities in cryptographic system with the intent to compromise the confidentiality, integrity or authenticity of data.
+
+Downgrade Attacks: In this attack the attacker forces the system to use weaker or older cryptographic standards or protocols. The attacker already know the vulnerability in those older version and exploit then. for example POODLE attack on SSL 3.0
+The countermeasure includes phasing out support of the insecure protocols and version intolerant check.
+
+Collision Attacks: In this attack the attacker finds two different inputs producing the same hash output. This undermine data integrity verification relying on hash functions. Algorithms with these vulnerabilities are : MD5, can lead to collisions.
+Birthday Paradox or birthday paradox: It is the probability that two distinct inputs, when processed through a hashing function, will produce the same output, or a collision.
+
+
+### Quantum Computing Threat
+
+  Quantum Computing: A computer that uses quantum mechanics to generate and manipulate quantum bits in order to access enormous processing powers.
+  Quantum Communication: A communications network that relies on qubits made of photons (light) to send multiple combinations of ones and zeros simultaneously which results in tamper resistant and extremely fast communications.
+  
+  Qubit: A quantum bit composed of electrons or photons that can represent numerous combinations of ones and zeros at the same time through superposition. This superposition enable simultaneous processing of multiple combinations.
+  
+  Threat to traditional encryption algorithms (RSA, ECC) by rapid factorization of large prime numbers.
+  
+  
+  Post-quantum cryptography
+  A new kind of cryptographic algorithm that can be implemented using today’s classic computers but is also impervious to attacks from future quantum computers. This aims to create algorithms resistant to quantum attacks. 
+  
+  First method to create post-quantum cryptography is to increase the key size. It increases the number of permutations that are needed to be brute-forced.
+  Second method is to create something like lattice-based cryptography and super singular isogeny key exchange.
+  
+  NIST selected four post-quantum cryptography standards:
+  CRYSTALS-Kyber - general encryption needs
+  Digital signatures like:
+	  - CRYSTALS-Dilithium
+	  - FLACON
+	  - SPHINCS+ 
