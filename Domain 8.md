@@ -95,11 +95,24 @@ Key component are:
   
 - Annualized Rate of Occurrence (ARO): It is the estimated frequency of threat occurrence within a year. It provides a yearly probability
   
-- Annualized Loss Expectancy (pALE): It is expected annual loss from a risk. it is calculated as SLE x ARO. 
+- Annualized Loss Expectancy (ALE): It is expected annual loss from a risk. it is calculated as SLE x ARO. 
   
 
-Risk Management Strategies
- Risk Transfer 
- Risk Acceptance 
- Risk Mitigation 
- Risk Avoidance
+### Risk Management Strategies
+There are four major type of risk management Strategies:
+ 
+Risk Transfer : In this method the threat owner shifts the risk to another party. It the shifting is done 2 common ways namely:
+ - Insurance
+ - Contract Indemnity clause: A contractual agreement is an agreement where one party agrees to cover the other’s harm, liability, or loss stemming from the contract.
+ This method dose not remove the risk but rather than that it shifts the responsibility for handling the risk's financial consequences. 
+
+Risk Acceptance : In this method the threat owner chose to acknowledge and deal with risk if it occurs. It is used when the cost of managing the risk out weighs the potential loss or risk in unlikely to have a significant impact. No action to mitigate the risk are taken.
+The method to do this are : 
+- Exemption
+- Exception
+In both Exemption and Exception, the organization assumes risk either by operating without the safeguards or mitigations offered by a rule (exemption), or by operating in a way that lets them evade the risk (exception).
+
+
+Risk Avoidance : In this method the risk owner change plans or strategies to eliminate a specific risk. The risk owner choses when the risk is too great to accept or transfer.
+
+Risk Mitigation :  In this method the risk owner take steps to reduce likelihood or impact of risk. The common strategy involving various actions to mitigate it when occured.
