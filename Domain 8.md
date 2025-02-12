@@ -116,3 +116,36 @@ In both Exemption and Exception, the organization assumes risk either by operati
 Risk Avoidance : In this method the risk owner change plans or strategies to eliminate a specific risk. The risk owner choses when the risk is too great to accept or transfer.
 
 Risk Mitigation :  In this method the risk owner take steps to reduce likelihood or impact of risk. The common strategy involving various actions to mitigate it when occurred.
+
+### Risk Monitoring and Reporting
+
+Risk Monitoring
+Risk Monitoring is the process of :
+- Tracking identified risks 
+- Monitoring residual risks 
+- Identifying new risks 
+- Evaluating risk response plans
+It involves ongoing tracking of risks and their response actions. It helps in determining Residual 
+
+Risk and Control Risk:
+
+Residual Risk : The likelihood and impact of the risk after mitigation, transference, or acceptance measures have been taken on the initial risk.
+
+Control Risk : Assessment of how a security measure has lost effectiveness over time.
+
+Risk Reporting
+It is the communication of information about risk management activities to stakeholders. It includes the results of risk identification, assessment, response, and monitoring. It is often presented in the form of a risk report.
+
+
+Risk Monitoring and Reporting are essential for :
+
+Informed decision making: Offering insights for informed decisions on resource allocation, project timelines, and strategic planning
+
+Risk Mitigation: It about recognizing when a risk is escalating so that it can be mitigated before becoming an issue 
+
+Stakeholder communication: It assist in setting expectations and showing effective risk management.
+
+Regulatory compliance: It demonstrate compliance with these regulations
+
+
+
