@@ -133,19 +133,18 @@ Residual Risk : The likelihood and impact of the risk after mitigation, transfer
 
 Control Risk : Assessment of how a security measure has lost effectiveness over time.
 
-Risk Reporting
-It is the communication of information about risk management activities to stakeholders. It includes the results of risk identification, assessment, response, and monitoring. It is often presented in the form of a risk report.
+Risk Reporting: It is the communication of information about risk management activities to stakeholders. It includes the results of risk identification, assessment, response, and monitoring. It is often presented in the form of a risk report.
 
 
 Risk Monitoring and Reporting are essential for :
 
-Informed decision making: Offering insights for informed decisions on resource allocation, project timelines, and strategic planning
+- Informed decision making: Offering insights for informed decisions on resource allocation, project timelines, and strategic planning
 
-Risk Mitigation: It about recognizing when a risk is escalating so that it can be mitigated before becoming an issue 
+- Risk Mitigation: It about recognizing when a risk is escalating so that it can be mitigated before becoming an issue 
 
-Stakeholder communication: It assist in setting expectations and showing effective risk management.
+- Stakeholder communication: It assist in setting expectations and showing effective risk management.
 
-Regulatory compliance: It demonstrate compliance with these regulations
+- Regulatory compliance: It demonstrate compliance with these regulations
 
 
 
