@@ -115,4 +115,4 @@ In both Exemption and Exception, the organization assumes risk either by operati
 
 Risk Avoidance : In this method the risk owner change plans or strategies to eliminate a specific risk. The risk owner choses when the risk is too great to accept or transfer.
 
-Risk Mitigation :  In this method the risk owner take steps to reduce likelihood or impact of risk. The common strategy involving various actions to mitigate it when occured.
+Risk Mitigation :  In this method the risk owner take steps to reduce likelihood or impact of risk. The common strategy involving various actions to mitigate it when occurred.
