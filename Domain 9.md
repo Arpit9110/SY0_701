@@ -100,9 +100,9 @@ It involves a two-way communication channel where both the organization and vend
 
 Types of contract and Agreements: 
 
-Basic Contract.
+Basic Contract:  This is a versatile tool that formally establishes a relationship between two parties. It defines roles, responsibilities, and consequences for non-compliance.  It also includes  specific terms like payment structure, delivery timelines, and product specifications.
 
-Service Level Agreement.
+Service Level Agreement: 
 
 Memorandum of agreement (MOA and Memorandum of Understanding (MOU).
 
