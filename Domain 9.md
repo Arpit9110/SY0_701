@@ -102,16 +102,18 @@ Types of contract and Agreements:
 
 Basic Contract:  This is a versatile tool that formally establishes a relationship between two parties. It defines roles, responsibilities, and consequences for non-compliance.  It also includes  specific terms like payment structure, delivery timelines, and product specifications.
 
-Service Level Agreement: 
+Service Level Agreement (SLA) : It defines the standard of service a client can expect from a provider. It includes performance benchmarks and penalties for deviations. 
 
 Memorandum of agreement (MOA and Memorandum of Understanding (MOU).
+ MOA : Formal, outlines specific responsibilities and roles.
+ MOU : Less binding, expresses mutual intent without detailed specifics.
 
-Master Service Agreement (MSA).
+Master Service Agreement (MSA): It covers general terms of engagement across multiple transactions. It is used for recurring client relationships, supplemented by Statements of Work.
 
-Statement of work (SOW).
+Statement of work (SOW):  It specifies project details, deliverables, timelines, and milestones.  It also provides in-depth project-related information.
 
-Non-disclosure Agreement (NDA).
+Non-disclosure Agreement (NDA): This ensures confidentiality of sensitive information shared during negotiations. This is a commitment to privacy, protecting proprietary data.
 
-Business partnership Agreement (BPA) or Joint Venture Agreement (JV)
+Business partnership Agreement (BPA) or Joint Venture Agreement (JV): It goes beyond  the basic contracts when two entities collaborate. It outlines partnership nature, profit-sharing, decision-making, and exit strategies. It defines ownership of intellectual property and revenue distribution. 
 
 
