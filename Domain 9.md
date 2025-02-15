@@ -58,3 +58,15 @@ Penetration is a simulated cyberattacks to identity vulnerabilities in supplier 
 
 Right-To-Audit Clause
 
+In the contract it is the provision that allows the organization to evaluate vendor's internal processes for compliance. It ensures transparency and adherence to standards and quality.
+
+Independent Assessments
+
+It is the evaluations conducted by third-party entities without a stake in the organization or vendor. It Provides a neutral perspective on adherence to security or performance standards.
+
+Supply Chain Analysis
+
+It is the assessment of an entire vendor supply chain for security and reliability. It ensures integrity of the vendor's entire supply chain, including sources of parts or products.
+
+Vendor Selection and Monitoring
+
