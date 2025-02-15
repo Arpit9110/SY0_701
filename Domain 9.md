@@ -68,5 +68,50 @@ Supply Chain Analysis
 
 It is the assessment of an entire vendor supply chain for security and reliability. It ensures integrity of the vendor's entire supply chain, including sources of parts or products.
 
-Vendor Selection and Monitoring
+### Vendor Selection and Monitoring
+
+Vendor Selection Process
+
+It is similar to hiring a team member. It is a due diligence process which requires a rigorous evaluation that goes beyond surface-level credentials. 
+It Includes : 
+ - Evaluating financial stability.
+ - Operational History. 
+ - Client Testimonials.
+ - On-ground practices to ensure cultural alignment.
+Always check for conflict of interest that could bias the selection process.
+
+Vendor Questionnaires
+
+It is a comprehensive documents filled out by potential vendors. The vendors questionnaires provide insights into operations, capabilities, and compliance. It also standardized the criteria for fair and informed decision-making.
+
+Rules of Engagement 
+
+ It is the guidelines for interaction between organization and vendors. It covers the communication protocols, data sharing and negotiation boundaries. It ensures the productivity and compliant interactions. 
+
+Vendor Monitoring
+
+Mechanism used to ensure that the chosen vendor still aligns with organizational needs and standards. It also include performance reviews assess deliverables against agreed-upon standards and objectives.
+
+Feedback Loops
+
+It involves a two-way communication channel where both the organization and vendor share feedback.
+
+### Contract And Agreements
+
+Types of contract and Agreements: 
+
+Basic Contract.
+
+Service Level Agreement.
+
+Memorandum of agreement (MOA and Memorandum of Understanding (MOU).
+
+Master Service Agreement (MSA).
+
+Statement of work (SOW).
+
+Non-disclosure Agreement (NDA).
+
+Business partnership Agreement (BPA) or Joint Venture Agreement (JV)
+
 
