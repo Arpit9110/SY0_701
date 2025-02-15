@@ -53,3 +53,8 @@ Entities in vendor Assessment
 - Managed Service Providers (MPS): They manage IT services on behalf of organizations.
 
 
+Penetration Testing of Suppliers
+Penetration is a simulated cyberattacks to identity vulnerabilities in supplier system. Validating the supplier's cybersecurity practices and potential risk to your organization.
+
+Right-To-Audit Clause
+
