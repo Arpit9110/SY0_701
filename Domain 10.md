@@ -71,9 +71,85 @@ Password Standards
 This standard defines password complexity and management. It includes length, character  types, regular changes, and password reuse rules. It Emphasize for password hashing and salting for security.
 
 Access Control Standards
-This standard determines who has access to resources within an organization. It includes access control model like: 
+This standard determines who has access to resources within an organization. It enforces the principle of least privilege, zero trust and separation of duties. It includes access control model like: 
+- DAC- discretionary Access control
+- MAC - Mandatory Access Control
+- RBAC- Role based Access Control 
+
 Physical Security Standards
+It covers the physical measures to protect assets and information. It includes controls like perimeter security, surveillance system, and access control mechanism. It address environmental controls and secure areas for sensitive information. 
+
 Encryption Standards
+This ensures data remains secure and unreadable even if accessed without authorization. It  also Includes encryption algorithms like AES, DES and SHA-2. It depends on the user case and balance between security and performance.
 
 ### Procedures
+
+Procedures 
+This is a systematic sequence of action or steps taken to achieve a specific outcome in an organization. It ensures consistency, efficiency and compliance with standards. 
+
+Change Management 
+The systematic approach to handling organizational changes. It aims to implement changes smoothly and successfully with minimum disruption. 
+The key stages of procedure are: 
+- Identifying the need for change.
+- Addressing impacts.
+- Developing a plan. 
+- Implementation.
+- Post-change review.
+
+Onboarding and offboarding Procedures
+The onboarding procedure  helps in integration of new employees into the organization. It include  ensures productivity and engagement. It includes orientation, training and integration activities. 
+The offboarding procedures manages the transition when an employee leaves the organization. This includes the task of property retrieval, access disabling and exit interviews.
+
+Playbooks
+These are the detailed guides for specific task or processes. They provide step-by-step instructions for consistent and efficient execution. It is used  various situations, from cybersecurity incident to customer complaints. It includes resource requirement, step to be taken, and expected outcomes.
+
+### Governance Considerations
+
+Regulatory Considerations
+In this the organizations must comply with various regulation, depending on industry and locations. The non compliance of this may  leads to penalties sanctions and reputational damage.
+
+Legal Considerations
+
+It complements the regulatory considerations, encompassing contracts, intellectual  property and corporate laws. The employment laws address minimum wage, overtime, safety, discrimination and benefits. The litigation risk includes breach of contract, product liability and employment benefits. Robust legal strategies and resources are needed to manage legal risks. 
+
+Industry Considerations
+
+This refers to industry specific standards, practices, and ethical guidelines. It does not legally binds but it influence customer, partner, and regulatory expectations. The non adoption may lead to competitive disadvantages and stakeholder criticism. 
+
+Geographical Considerations
+
+Geographical regulations impact organizations at local, regional, national, and global levels. 
+- The local considerations include city ordinances, zoning laws, and operational restrictions. 
+- The Regional considerations, like CCPA in California, impose state-level regulations.
+- The National considerations, e.g., ADA in the US, affect businesses across the entire country. 
+- The Global considerations, like GDPR, apply extraterritorially to organizations dealing with EU citizens' data
+Conflicts of laws between jurisdictions is also a significant challenge. Navigating these differences requires deep legal knowledge and flexibility in governance. 
+
+
+### Compliance
+
+Compliance: The compliances ensures adherence to laws, regulations, guidelines, and specifications.  It includes compliance reporting and compliance monitoring.
+
+Compliance Reporting 
+The Compliance Reporting is a systematic process of collecting and presenting data to demonstrate adherence to compliance requirements. 
+Two types of compliances Reporting are 
+
+- Internal Compliance Reporting:  It ensures adherence to internal policies and procedures. It is conducted by an internal audit team or compliance department. 
+
+- External Compliance Reporting: It is a demonstrates compliance to external entities. It is mandatory to conduct, often by law of contract.
+
+Compliance monitoring
+It is Regular reviews and analysis of an organization's operations for compliance.  It includes sue diligence and due care, attestation and acknowledgement, and internal and external monitoring.
+
+Due Diligence and Due care
+- Due Diligence : It helps in identifying compliance risks through thorough review.
+- Due Care: It helps in Mitigating identified risks.
+
+Attestation and Acknowledgement
+- Attestation: 
+- Acknowledgement: 
+Internal and External Monitoring
+Role of Automation in Compliance
+
+### Non-Compliance Consequences
 
