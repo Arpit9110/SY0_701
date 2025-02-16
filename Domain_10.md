@@ -146,10 +146,38 @@ Due Diligence and Due care
 - Due Care: It helps in Mitigating identified risks.
 
 Attestation and Acknowledgement
-- Attestation: 
-- Acknowledgement: 
+- Attestation: It's a formal declaration by a responsible party that the organization’s processes and controls are compliant. 
+- Acknowledgement: Recognition and acceptance of compliance requirements by all relevant parties.
+
 Internal and External Monitoring
+- Internal Monitoring: Regularly reviewing an organization’s operations to ensure compliance with internal policies. 
+
+- External Monitoring: Third-party reviews for compliance with external regulations or standards. 
+
+
 Role of Automation in Compliance
+This streamlines data collection, improves accuracy, and provides real-time monitoring.
+
 
 ### Non-Compliance Consequences
+
+Compliance in IT is essential to avoid severe consequences.
+
+The consequences of non-compliance includes:
+Fines: It's monetary penalties imposed by regulatory bodies.
+
+Sanctions: These are strict measures by regulatory bodies to enforce compliance. It ranges from restrictions to bans.
+
+Reputational Damage: Negative impact on a company's reputation. It cause Significant and long-lasting damage in the age of social media. 
+
+Loss of License: Loss of the right to operate, relevant in regulated industries
+
+Contractual Impact: Breach of contracts due to non-compliance with laws and regulations. It can lead to legal disputes, financial penalties, or contract termination.
+
+
+To avoid these consequences, companies should prioritize compliance by:
+
+- Understanding and adhering to relevant laws and regulations.
+- Implementing robust cybersecurity measure.
+- Regularly reviewing and updating compliance programs.
 
