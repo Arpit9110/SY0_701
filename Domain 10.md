@@ -47,10 +47,33 @@ These policies cover a range of areas:
 - Physical Security
 
 Business Continuity Policy
+This  Ensures operations continue during and after disruptions. It focuses on critical operation continuation and quick recovery. It includes strategies for power outages, hardware failures, and disasters. 
+
 Disaster Recovery Policy
+It focuses on IT systems and data recovery after disasters. It outlines Data backup, restoration, hardware/software recovery, and alternative locations. 
+
 Incident Response policy 
+This policy Addresses detection, reporting, assessment, response, and learning from security incidents. It specifies incident notification, containment, investigation, and prevention steps. It minimizes damage and downtime during incidents.
+
 Software Development Lifecycle (SDLC) policy
+This policy guides software development stages from requirements to maintenance. It includes secure coding practices, code review, and testing standards. It ensures high-quality, secure software meeting user needs. 
+
 Change Management Policy
+This policy helps in Governance of handling of IT system/process changes. It ensures controlled, coordinated change implementation to minimize disruptions. It covers change request, approval, implementation, and review processes. 
 
 ### Standards
+
+Standards
+This provides a framework for implementing security measures, ensuring that all aspects of an organization's security posture are addressed
+
+Different Standards are: 
+Password Standards
+This standard defines password complexity and management. It includes length, character  types, regular changes, and password reuse rules. It Emphasize for password hashing and salting for security.
+
+Access Control Standards
+This standard determines who has access to resources within an organization. It includes access control model like: 
+Physical Security Standards
+Encryption Standards
+
+### Procedures
 
