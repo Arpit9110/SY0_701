@@ -41,9 +41,37 @@ It also have a concept of Self-assessments, which involves internal evaluations 
 Vulnerability assessments, threat modelling exercises, and risk assessments are part of internal assessments also the assisted internal assessments may involve dedicated assessment groups.
 
 Internal Assessment Process includes:
-Threat Modelling Exercise
-Vulnerability Assessment
-Risk Assessment
 
+- Threat Modelling Exercise : It involves identifying potential threats to applications (e.g., SQL injection, XSS, DoS attacks).
+
+- Vulnerability Assessment: It involves usages of automated scanning tools and manual testing techniques to identify known vulnerabilities and code weaknesses. 
+
+- Risk Assessment 
+  It Evaluates the potential impact of the following:
+	- Identified threats and vulnerabilities with it's considering likelihood 
+	- Potential damage 
+	- Cost of security measure
+Mitigation Strategies 
+These are the recommendations to address risks and vulnerabilities 
+- Code fixes 
+- Additional security controls 
+- Architectural changes
+
+
+### Performing an Internal Assessment
+
+Internal Assessment
+It is a proactive evaluation of an organization's security posture. It helps to identify and address potential risks and vulnerabilities in information systems.
+
+Using a Sample Checklist
+It refers to the using of specific checklists and procedures for an internal assessment may vary based on the following:
+- Organization's governance 
+- Risk 
+- Compliance practices
+A sample checklist from the Minnesota Counties Intergovernmental Trust (MCIT) is used as an example  
+
+MCIT Cybersecurity Self-Assessment 
+
+MCIT's Cybersecurity Self-Assessment checklist is designed to help organizations minimize data and cybersecurity-related exposures. It assists in identifying areas where data security may need strengthening. The checklist comprises yes-or-no questions with sections for comments and action items. Action items are assigned to specific individuals or groups responsible for implementing corrective actions.
 
 
