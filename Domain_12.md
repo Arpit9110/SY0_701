@@ -133,3 +133,24 @@ This provide an unbiased perspective on an organization's security posture. It v
 ### Performing an external Assessment
 
 
+External Assessment 
+It is a part of maintaining a robust security posture and ensuring compliance It may  May vary based on the following 
+● Organization's governance 
+● Risk 
+● Compliance practices 
+
+Sample checklist are used for a HIPAA external assessment from the government of San Bernardino County, California as a demonstration. It's purpose is to validate compliance with specific regulations and minimize cybersecurity risks.
+
+Preparing for a HIPAA External Assessment 
+-  Examiners provide a checklist of questions that organizations must answer 
+- Questions are answered as either "yes" or "no" 
+- Evidence files, such as documents or links, must be provided to demonstrate compliance 
+- 
+Sample Checklist 
+- Questions cover various aspects like general information, policies, procedures, and employee training.
+- Organizations must provide evidence files as proof of compliance. 
+- External assessments aim to provide a quick overview of the organization's current risk posture.
+
+
+### Penetration Testing
+
