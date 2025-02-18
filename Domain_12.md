@@ -75,3 +75,42 @@ MCIT Cybersecurity Self-Assessment
 MCIT's Cybersecurity Self-Assessment checklist is designed to help organizations minimize data and cybersecurity-related exposures. It assists in identifying areas where data security may need strengthening. The checklist comprises yes-or-no questions with sections for comments and action items. Action items are assigned to specific individuals or groups responsible for implementing corrective actions.
 
 
+Collaborative Approach: In this approach to maximize the checklist's effectiveness involve a diverse group of participants from across the organization like Administration team, Information technology staff and Cybersecurity professional.
+
+Overview of checklist
+- The checklist is broad and aims to provide a quick overview of the organization's current risk posture
+- Organizations may use different checklists or variations with distinct questions 
+- The general format and purpose of self-assessments are consistent across most organizations.
+
+### External Audits and Assessments
+
+External Audits and Assessments
+
+It is an essential tools for maintaining a robust security posture and ensuring regulatory compliance. It is conducted by independent third parties to provide an unbiased perspective on an organization's security. 
+
+External Audits
+
+It is Systematic evaluations conducted by independent entities. In this they Assess information systems, applications, and security controls They mainly focuses on various areas such as :
+- Data protection 
+- Network security 
+- Access controls
+- Incident response procedures 
+Objective is to identify gaps in security policies and controls for compliance with regulatory standards such as: 
+- GDPR 
+- HIPAA 
+- PCIDSS
+
+
+External Assessments
+
+It includes detailed analysis by independent entities to identify vulnerabilities and risks in an organization's security systems. It utilize automated scanning tools and manual testing techniques. The external assessments can take various forms such as:
+- Risk assessments 
+- Vulnerability assessments
+- Threat assessments
+
+Regulatory compliance 
+
+- It's goal is to ensure organizations comply with relevant laws, policies, and regulations.
+- Organizations adopt consolidated and harmonized sets of compliance controls to achieve regulatory compliance, e.g., NIST Cybersecurity Framework.
+- Compliance includes adherence to industry-specific rules (e.g., HIPAA, PCI DSS) and more generalized regulations like GDPR.
+
