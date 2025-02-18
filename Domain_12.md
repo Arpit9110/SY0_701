@@ -153,4 +153,23 @@ Sample Checklist
 
 
 ### Penetration Testing
+It is a simulated cyber attack to identify exploitable vulnerabilities in a computer system. It assesses systems for potential weaknesses that attackers could exploit.  It's Various types include Physical, Offensive, Defensive and Integrated.
+
+Physical Penetration Testing
+It evaluates an organization's physical security measures 
+For examples 
+Testing locks 
+Access card 
+Security cameras 
+It identifies vulnerabilities and recommends improvements for enhanced physical security. It's benefits includes Improved security awareness, Preventing unauthorized access etc.
+
+Offensive Penetration Testing 
+It is also Known as “red teaming”. In this the pen tester actively seeks vulnerabilities and attempts to exploit them, like a real cyber attack. It helps to uncover and report vulnerabilities to improve security. It simulate real-world attacks and gain support for cybersecurity investments.
+
+Defensive Penetration Testing 
+It is also known as “blue teaming”. It is a reactive approach focused on strengthening systems by detecting and responding to attacks. It monitors the system for unusual activity and improves incident response times. It enhances detection capabilities and helps improve incident response 
+
+Integrated Penetration Testing 
+It is also known as “purple teaming”. It combines elements of offensive and defensive testing. The Red team conducts offensive attacks, while the blue team detects and responds. It Encourages collaboration and learning between the red and blue teams
+It's Benefits include Comprehensive security assessment, Promotion of collaboration within cybersecurity teams and improve skills for response.
 
