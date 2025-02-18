@@ -114,3 +114,22 @@ Regulatory compliance
 - Organizations adopt consolidated and harmonized sets of compliance controls to achieve regulatory compliance, e.g., NIST Cybersecurity Framework.
 - Compliance includes adherence to industry-specific rules (e.g., HIPAA, PCI DSS) and more generalized regulations like GDPR.
 
+Examinations
+It is the detailed inspections of an organization's security infrastructure conducted externally. It is very crucial for maintaining a strong security posture and regulatory compliance. It cover various areas such as: 
+- Network security 
+- Data protection 
+- Access controls 
+It also may include testing of the following 
+- Key personnel 
+- Certifications 
+- Standardized assessments 
+
+Independent Third-Party Audits
+
+This provide an unbiased perspective on an organization's security posture. It validate security measures and build trust with Customers , Stakeholder and Regulatory bodies. Sometimes it is also required by regulations like GDPR and PCI DSS for organizations to undergo regular independent third-party audits.
+
+
+
+### Performing an external Assessment
+
+
