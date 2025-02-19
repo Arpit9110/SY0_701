@@ -173,3 +173,60 @@ Integrated Penetration Testing
 It is also known as “purple teaming”. It combines elements of offensive and defensive testing. The Red team conducts offensive attacks, while the blue team detects and responds. It Encourages collaboration and learning between the red and blue teams
 It's Benefits include Comprehensive security assessment, Promotion of collaboration within cybersecurity teams and improve skills for response.
 
+
+
+### Reconnaissance In Pen testing
+
+Reconnaissance
+ It is the Initial phase where an attacker gathers information about the target system. These information helps the attacker better plan the attack and increase it's success rate.
+ 
+Importance of reconnaissance
+
+This is very crucial step in penetration testing. It identifies potential vulnerability in the system. It also helps to plan the attack to reduce the risk of detection and failure. 
+
+
+Types of reconnaissance
+ Active Reconnaissance: This involve engaging with the target system directly, such as scanning for open ports using tools like Nmap.
+ 
+ 
+ Passive Reconnaissance: This involves gathering the information without direct engagement, like using open-source intelligence or WHOIS to collect data.
+ 
+ Reconnaissance and Environment Types
+ 
+ Known Environment: In this environment the pen-tester have detailed information about the target infrastructure. It also focuses on known assets. This evaluates the vulnerability and weakness with the aim to understanding and potential damages. It basically resembles an insider threat scenario. 
+ 
+ Partial Known Environment 
+ In this environment the prn-tester have limited information. It simulation an scenario in where an attacker has partial inside knowledge. It focuses on discoverign and navigatong the broader environment.
+ 
+ Unknown Environment
+ In this environment the pen-tester have no information about the target system. I simulates a real-world external attacker aiming to find entry point and vulnerabilities. In this environment the pentester needs extensive reconnaissance. 
+ 
+#### Basic Pentest tool
+
+  Metasploit: It is a multipurpose computer security and pentesting framework. It contain a wide variety of powerfull tools for conducting a pentest on a target. 
+  
+### Attesting Of Finding
+
+Attestation
+ It involves formal validation or confirmation provided by an entity to assess the accuracy and authenticity of specific information. It is crucial in internal and external audits to ensure the radability and integrity of the entities like data, System, processes. 
+
+Attestation of finding in Penetration testing
+
+It is used to prove that a penetration test has been occured and validate teh findings of that test. It may ber required for compliance or regulatiory purpose like GLBA, HIPAA, Sarbanes-Oxley, PCI DSS, etc
+It also includes a sumary of findinga and evidance of the security assessment. These evidance helps in proving that identified vulenarbilities and exploits are valid.
+The difference between a attestation and the report is that, a attestation includes evidance where as, a report focuses o finding and recommended remediation.
+
+Types of attestation 
+
+- Software Attestation: It involves validating the integrity of software to ensure it hasn't been tampered with. 
+
+- Hardwware Attestation: It validates the integrity of hardware components to confirm they haven't been tampered with
+
+- System Attestation: It validates the security posture of a system, often related to compliance with security standards.
+
+Attestation in Audits
+
+- In internal audits, attestation evaluates organizational compliance, effectiveness of internal controls, and adherence to policies and procedures
+- In external audits, third-party entities provide attestation on financial statements, regulatory compliance, and operational efficiency
+- Attestation builds trust, enhances transparency, ensures accountability, and is essential for stakeholders in making informed decisions
+
