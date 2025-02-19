@@ -66,9 +66,6 @@ RAID Resilience Categories
  
  Disaster-tolerance: Safeguards against catastrophic event by maintaining data in independent zones e.g. RAID 1, RAID 10.
  
- 
-
-
 ### Capacity Planning 
 
 Capacity Planning
@@ -79,10 +76,10 @@ For Main Aspect of Capacity Planning
  
  Technology: It is done by assessing the current technology resources and their usage. By predict future technology demands, by considering these forecast scalability and potential investments are done in new technology. For example : Ensuring an e-commerce platform can handle traffic spikes.
  
- Infrastructure: In this planning for physical spaces and utilities to support operations. It also includes office spaces, data centers, and more. It is done to optimiza space and power consumption. For example: Data center capacity planning for server installations.
+ Infrastructure: In this planning for physical spaces and utilities to support operations. It also includes office spaces, data centres, and more. It is done to optimize space and power consumption. For example: Data centre capacity planning for server installations.
  
  
- Processes: In this plnning the business process is optimized fro varying demand levels. It is done to streamline the workflows, improve efficiently and consider outsourcing. For Example: Automating employee onboarding to handle high demand.
+ Processes: In this planning the business process is optimized for varying demand levels. It is done to streamline the workflows, improve efficiently and consider outsourcing. For Example: Automating employee onboarding to handle high demand.
  
 ### Powering Data Center
 
@@ -102,7 +99,8 @@ shutdown.
  
 
 Power Protection Components
- Line Conditioners: It stabilize voltage supply and filter out fluctuations. This mitigate surges, sags, and undervoltage events. It also prevent unexpected system behavior and hardware degradation. It Not suitable for scenarion in which there is a significant undervoltage events or complete power failures.
+ 
+ Line Conditioners: It stabilize voltage supply and filter out fluctuations. This mitigate surges, sags, and undervoltage events. It also prevent unexpected system behaviour and hardware degradation. It Not suitable for scenario in which there is a significant undervoltage events or complete power failures.
  
  Uninterruptible Power Supplies (UPS) : It provide emergency power during power source failures. It offers line conditioning functions. It include battery backup to maintain power during short-duration failures. This typically supply 15 to 60 minutes of power during a complete power failure. 
  
@@ -136,7 +134,6 @@ Onsite and Offsite Backup
   
   Importance: Onsite backups are convenient but vulnerable to disasters, where as offsite backups protect against physical disasters.
   
-
 Backup Frequency
   
   Determining factor of backup frequency is the organization’s RPO. RPO ensures that the backup plan will maintain the amount of data required to keep any data loss under the organization’s RPO threshold. 
@@ -148,12 +145,12 @@ Backup Frequency
  
 Encryption
   
-  It is fundamental safeguard that protects the backup data from unauthorized access and potential breach, by jumbeling out the or removing the and replacing them with the help of a key. 
-   Data-at-rest Encryption: Encrypting data as it is written to storage
+  It is fundamental safeguard that protects the backup data from unauthorized access and potential breach, by jumbling out the or removing the and replacing them with the help of a key. 
+   - Data-at-rest Encryption: Encrypting data as it is written to storage
    
-   Data-in-transit Encrytpion: Protecting data during transmission
+   - Data-in-transit Encryption: Protecting data during transmission
    
-   Importance: Safeguarding backup data from unauthorized access and breaches
+   - Importance: Safeguarding backup data from unauthorized access and breaches
 
 
 Snapshots: It is a Point-in-time copies capturing a consistent state. It Records only changes since the previous snapshot, reducing storage requirements. Use case : Valuable for systems where data consistency is critical, like databases and file servers.
@@ -161,7 +158,7 @@ Snapshots: It is a Point-in-time copies capturing a consistent state. It Records
 
 Data Recovery
   
-  Several key steps in the data recovery process
+  Several key steps in the data recovery process:
    - Selection of the right backup
    - Initiating the recovery process
    - Data validation
@@ -174,13 +171,13 @@ Data Recovery
 Replication
   
   It the real-time or near-real-time data copying to maintain data continuity. 
-  Benifits of replication are: 
+  Benefits of replication are: 
     - Ensures seamless data continuity
     - Suitable for high-availability environments
 
 Journaling 
   It is about maintaining a detailed record of data changes over time. 
-  It's benifits include 
+  It's benefits include:
     - Enables granular data recovery
     - Maintains an audit trail
     - Ensures data integrity and compliance
@@ -190,5 +187,5 @@ Journaling
    
 ### Continuity of Operations Plan
 
-Contunity of Operations plan (COOP)
+Continuity of Operations plan (COOP)
 Key terms
