@@ -196,31 +196,31 @@ Types of reconnaissance
  Known Environment: In this environment the pen-tester have detailed information about the target infrastructure. It also focuses on known assets. This evaluates the vulnerability and weakness with the aim to understanding and potential damages. It basically resembles an insider threat scenario. 
  
  Partial Known Environment 
- In this environment the prn-tester have limited information. It simulation an scenario in where an attacker has partial inside knowledge. It focuses on discoverign and navigatong the broader environment.
+ In this environment the prn-tester have limited information. It simulation an scenario in where an attacker has partial inside knowledge. It focuses on discovering and navigating the broader environment.
  
  Unknown Environment
- In this environment the pen-tester have no information about the target system. I simulates a real-world external attacker aiming to find entry point and vulnerabilities. In this environment the pentester needs extensive reconnaissance. 
+ In this environment the pen-tester have no information about the target system. I simulates a real-world external attacker aiming to find entry point and vulnerabilities. In this environment the pen tester needs extensive reconnaissance. 
  
 #### Basic Pentest tool
 
-  Metasploit: It is a multipurpose computer security and pentesting framework. It contain a wide variety of powerfull tools for conducting a pentest on a target. 
+  Metasploit: It is a multipurpose computer security and pen testing framework. It contain a wide variety of powerful tools for conducting a pen test on a target. 
   
 ### Attesting Of Finding
 
 Attestation
- It involves formal validation or confirmation provided by an entity to assess the accuracy and authenticity of specific information. It is crucial in internal and external audits to ensure the radability and integrity of the entities like data, System, processes. 
+ It involves formal validation or confirmation provided by an entity to assess the accuracy and authenticity of specific information. It is crucial in internal and external audits to ensure the reliability and integrity of the entities like data, System, processes. 
 
 Attestation of finding in Penetration testing
 
-It is used to prove that a penetration test has been occured and validate teh findings of that test. It may ber required for compliance or regulatiory purpose like GLBA, HIPAA, Sarbanes-Oxley, PCI DSS, etc
-It also includes a sumary of findinga and evidance of the security assessment. These evidance helps in proving that identified vulenarbilities and exploits are valid.
-The difference between a attestation and the report is that, a attestation includes evidance where as, a report focuses o finding and recommended remediation.
+It is used to prove that a penetration test has been occurred and validate the findings of that test. It may be required for compliance or regulatory purpose like GLBA, HIPAA, Sarbanes-Oxley, PCI DSS, etc.
+It also includes a summary of finding and evidence of the security assessment. These evidence helps in proving that identified vulnerabilities and exploits are valid.
+The difference between a attestation and the report is that, a attestation includes evidence where as, a report focuses o finding and recommended remediation.
 
 Types of attestation 
 
 - Software Attestation: It involves validating the integrity of software to ensure it hasn't been tampered with. 
 
-- Hardwware Attestation: It validates the integrity of hardware components to confirm they haven't been tampered with
+- Hardware Attestation: It validates the integrity of hardware components to confirm they haven't been tampered with
 
 - System Attestation: It validates the security posture of a system, often related to compliance with security standards.
 
