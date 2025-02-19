@@ -64,7 +64,7 @@ RAID Resilience Categories
  
  Fault-tolerance: It allows continued operation and quick data rebuild in case of failure e.g. RAID 1, RAID 5, RAID 6, RAID 10.
  
- Disaster-tolerance: Safeguards against catastrophic eventt by maintaining data in independent zones e.g. RAID 1, RAID 10.
+ Disaster-tolerance: Safeguards against catastrophic event by maintaining data in independent zones e.g. RAID 1, RAID 10.
  
  
 
@@ -72,12 +72,12 @@ RAID Resilience Categories
 ### Capacity Planning 
 
 Capacity Planning
- In includes critical strategic panning effrot for organizatios. It ensures an organization is prepared to meet future demands in a cost-effective manner.
+ In includes critical strategic panning effort for organizations. It ensures an organization is prepared to meet future demands in a cost-effective manner.
  
 For Main Aspect of Capacity Planning
- People: In this the current personnel skills and capacity are Analyzed and the future personnel needs for hiring, training, or downsizing is forecasted. By this the organizations ensure the right number of people with the right skills for strategic objectives. For example Hiring seasonal employees for holiday retail demand.
+ People: In this the current personnel skills and capacity are Analysed and the future personnel needs for hiring, training, or downsizing is forecasted. By this the organizations ensure the right number of people with the right skills for strategic objectives. For example Hiring seasonal employees for holiday retail demand.
  
- Technology: It is done by assessing the current technology resources and their usage. By predict future technology demands, by concidering these forecast scalability and potential investments are done in new technology. For example : Ensuring an e-commerce platform can handle traffic spikes.
+ Technology: It is done by assessing the current technology resources and their usage. By predict future technology demands, by considering these forecast scalability and potential investments are done in new technology. For example : Ensuring an e-commerce platform can handle traffic spikes.
  
  Infrastructure: In this planning for physical spaces and utilities to support operations. It also includes office spaces, data centers, and more. It is done to optimiza space and power consumption. For example: Data center capacity planning for server installations.
  
