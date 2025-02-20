@@ -258,17 +258,17 @@ Consideration for redundant Site selection
 
 Resilience Testing
 
-This assess system's ability to withstand and adapt to disruptive events. It ensures the system can recover from unforseen incidents. These testing is conducted through tabletop exercise, failover tests, simulations and parallel processing. It helps in preparing for events like power loss, natural disasters, ransomeware attacks, and data breaches.
+This assess system's ability to withstand and adapt to disruptive events. It ensures the system can recover from unforeseen incidents. These testing is conducted through tabletop exercise, failover tests, simulations and parallel processing. It helps in preparing for events like power loss, natural disasters, ransomware attacks, and data breaches.
  
 Recovery Testing 
- This testing evaluates the system's capaciy to restore normal operation after a disruptive event. It involves exexutive planned recovery actions. It is performed through failover tests, simulations, and parallel processing. It ensures that planned recovery procedures work effectively in real-world scenarios=.
+ This testing evaluates the system's capacity to restore normal operation after a disruptive event. It involves executing planned recovery actions. It is performed through failover tests, simulations, and parallel processing. It ensures that planned recovery procedures work effectively in real-world scenarios=.
  
 Tabletop Exercises
- In this scenarion-based discussion donr among key stakeholders.They identify the gaps and seams in response plan. They promoe team-building among stakeholders. In this test there is no deplyment of actual resources.
+ In this scenario-based discussion done among key stakeholders. They identify the gaps and seams in response plan. They promote team-building among stakeholders. In this test there is no deployment of actual resources.
  
 Failover Tests
  
- It is a controlled experiment fro transitioning from primary to backup components. It ensures uninterrupted functionality during disasters. It requires more resources and time. This validates the effectiveness of disaster recovery plans. It can also identify and rectify issues in the failover process.
+It is a controlled experiment for transitioning from primary to backup components. It ensures uninterrupted functionality during disasters. It requires more resources and time. This validates the effectiveness of disaster recovery plans. It can also identify and rectify issues in the failover process.
  
  
 Simulations
