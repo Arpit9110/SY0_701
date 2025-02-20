@@ -216,50 +216,49 @@ continuity of Operations Plan (COOP)
  
 ### Redundant Site Considerations
 
- Redundant Site
-  These are the backup location or facility that can take over essential functions and operations in case the primary site experiences a failure or disruption.
+Redundant Site
+These are the backup location or facility that can take over essential functions and operations in case the primary site experiences a failure or disruption.
   
- Type of Continuity Locations
+Type of Continuity Locations
   
-  Hot Sites: These are the up and running site working continuously. This enables a quick switchover, but it requires duplicating all infracture and data. It is very expensive to create and maintain but provides instant availability.
+  - Hot Sites: These are the up and running site working continuously. This enables a quick switchover, but it requires duplicating all infracture and data. It is very expensive to create and maintain but provides instant availability.
   
-  Warm Sites: These are not the fully equipped and setup sites but is fundamentally in place. It needs a few days to setup but it is cheaper to operate and maintain. It is slight slower than Hot Sites.
+  - Warm Sites: These are not the fully equipped and setup sites but is fundamentally in place. It needs a few days to setup but it is cheaper to operate and maintain. It is slight slower than Hot Sites.
   
-  Cold Sites: These are the sites that have more fewer facilities thanthe warn site, Mightbe just a empty building. It need 1-2 months to setup. It is cost-effective but adds more recovery time.
+  - Cold Sites: These are the sites that have more fewer facilities thanthe warn site, Mightbe just a empty building. It need 1-2 months to setup. It is cost-effective but adds more recovery time.
   
-  Mobile Sites: This can be hot, warm or cold. It utilizes portable units like trailers or tents. It offers flexibility and quick deployment. Ex militart DjC2
+  - Mobile Sites: This can be hot, warm or cold. It utilizes portable units like trailers or tents. It offers flexibility and quick deployment. Ex military DjC2
   
    
- Plateform Diversity
-  It is critical fro effective virtual redundant sites. It helps in diversify operating systems, network equipment, and cloud platforms. It reduces the risk of a single point of failure. It ensures resilience and adaptability in case of disruptions. 
+ Platform Diversity
+ It is critical for effective virtual redundant sites. It helps in diversify operating systems, network equipment, and cloud platforms. It reduces the risk of a single point of failure. It ensures resilience and adaptability in case of disruptions. 
   
- 
+
  Virtual Sites
   
-  These are the sites that leverage the cloud-based envireonment for redundancy. This offers scalibility, cost-effectiveness, and easy maintenance. 
-  This is also of different type:
-   Virtual Hot Site: Fully replicated and instantly accessible in the cloud
-   Virtual Warm Site: Involves scaling up resources when needed
-   Virtual cold Site: Minimizes ongoing costs by activating resources only during disasters
+ These are the sites that leverage the cloud-based environment for redundancy. This offers scalability, cost-effectiveness, and easy maintenance. 
+ This is also of different type:
+   - Virtual Hot Site: Fully replicated and instantly accessible in the cloud
+   - Virtual Warm Site: Involves scaling up resources when needed
+   - Virtual cold Site: Minimizes ongoing costs by activating resources only during disasters
   
    
- Geographic Dispersion
+Geographic Dispersion
+It involves spreading resources across different locations for higher redundancy. It mitigates the risk of localized outages and enhances disaster recovery capability.
   
-  It involves spreading resources across different locations for higher redundancy. It mitigates the risk of localized outages and enhances disaster recovery capability.
+Consideration for redundant Site selection
   
- Consideration for redundant Site selection
+ - Think about technology stack, people's workspace, and long-term support
   
-  - Think about technology stack, people's workspace, and long-term support
+ - Determine which type of redundant site suits your organization's needs
   
-  - Determine which type of redundant site suits your organization's needs
-  
-  - Ensure continuity of essential functions and services in the event of disruptions
+- Ensure continuity of essential functions and services in the event of disruptions
   
 ### Resilience and Recovery Testing
 
 Resilience Testing
 
- This assess system's ability to withstand and adapt to disruptive events. It ensures the system can recover from unforseen incidents. These testing is conducted through tabletop exercise, failover tests, simulations and parallel processing. It helps in preparing for events like power loss, natural disasters, ransomeware attacks, and data breaches.
+This assess system's ability to withstand and adapt to disruptive events. It ensures the system can recover from unforseen incidents. These testing is conducted through tabletop exercise, failover tests, simulations and parallel processing. It helps in preparing for events like power loss, natural disasters, ransomeware attacks, and data breaches.
  
 Recovery Testing 
  This testing evaluates the system's capaciy to restore normal operation after a disruptive event. It involves exexutive planned recovery actions. It is performed through failover tests, simulations, and parallel processing. It ensures that planned recovery procedures work effectively in real-world scenarios=.
