@@ -188,41 +188,42 @@ Journaling
 ### Continuity of Operations Plan
 
 continuity of Operations Plan (COOP)
- This plan ensure that an organization's ability to recovery form disruptive events or a disaster. It requires detaied planing and forethought.
+ This plan ensure that an organization's ability to recovery form disruptive events or a disaster. It requires detailed planning and forethought.
  
  Key terms
   Business Continuity planning (BC Plan)
-   This paln and process is created for responding to distruptive events. It  addesses a wide range of threat and disruptive incidents. It also involves preventijg actions and recovery steps.It covers both technical and non-technical disruption.
+   This plan and process is created for responding to disruptive events. It addresses a wide range of threat and disruptive incidents. It also involves preventative actions and recovery steps. It covers both technical and non-technical disruption.
    
   Disaster Recovery Plan (DRP)
-   This plan and process focuses on disaster responce. It is a subset of BC plan which focuses on faster recovery after disaster. It addresses the specific like hurricanes, fires, or floods.
+   This plan and process focuses on disaster response. It is a subset of BC plan which focuses on faster recovery after disaster. It addresses the specific like hurricanes, fires, or floods.
    
  Strategies for Business Continuity 
-  - Always consider alteranative location fro critical infrastructure.
+  - Always consider alternative location for critical infrastructure.
   - Distribute staff across multiple geographic region.
   - use cloud services to maintain operation during disaster.
   
  Role of senior Management
   - Senior Managers are responsible for developing the BC plan.
-  - They define the goals for BC abd DR efforts.
+  - They define the goals for BC and DR efforts.
   - They a business continuity coordination to lead the business continuity committee.
   
  Business Continuity Committee
-  This comitee comprises of representatives from various depaerments (IT, Legal, security). This commitee determines recovery priority for different events. They also identifies and prioritizes systems, critical for business continuity.
+  This committee comprises of representatives from various departments (IT, Legal, security). This committee determines recovery priority for different events. They also identifies and prioritizes systems, critical for business continuity.
   
  Defining Scope
-  The senior management decides the plan's scope based on risk appetite and tolerance. The scope can be broken by business function or by georaphical areas. All components must be coherent and compatible for crisis situations.
+  The senior management decides the plan's scope based on risk appetite and tolerance. The scope can be broken by business function or by geographical areas. All components must be coherent and compatible for crisis situations.
  
  
-### Redundant Site ConsiderationS
+### Redundant Site Considerations
 
  Redundant Site
-  These are the backup locatiom or facility that can take over essential functions and operations in case the primary site experiences a failure or disruption.
+  These are the backup location or facility that can take over essential functions and operations in case the primary site experiences a failure or disruption.
   
  Type of Continuity Locations
-  Hot Sites: These are the up and running site working continiously. This enables a quick switchover, but it requires dublicating all infracture and data. It is very exppensive to create and maintain but provides instant availability.
   
-  Warm Sites: These are not the fully equiped and setup sites but is fundamentally in place. It needs a few days to setup but it is cheaper to operate and maintain. It is slight slower than Hot Sites.
+  Hot Sites: These are the up and running site working continuously. This enables a quick switchover, but it requires duplicating all infracture and data. It is very expensive to create and maintain but provides instant availability.
+  
+  Warm Sites: These are not the fully equipped and setup sites but is fundamentally in place. It needs a few days to setup but it is cheaper to operate and maintain. It is slight slower than Hot Sites.
   
   Cold Sites: These are the sites that have more fewer facilities thanthe warn site, Mightbe just a empty building. It need 1-2 months to setup. It is cost-effective but adds more recovery time.
   
