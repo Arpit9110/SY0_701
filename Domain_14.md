@@ -20,13 +20,13 @@ Third-Party Vendors
 Hybrid Solutions
  This solution combined on-premise, private cloud, and public cloud services, allowing workload flexibility. 
  It's considerations includes: 
-   - Sensitive data iss protected.
+   - Sensitive data is protected.
    - Regulatory requirement are met.
    - System can communicate with each other.
    - The solution is cost-effectiveness.
 
 On-Premise solutions
- These includes Computing infrastructure physically located on-site at abusiness.
+ These includes Computing infrastructure physically located on-site at a business.
  
 Key Considerations in cloud Computing
 
@@ -41,11 +41,11 @@ Key Considerations in cloud Computing
  
  - Ease of Deployment: Cloud services are easier to set up than on-premise solutions.
  
- - Risk Transference: Some risks are transferred to the provider, but mostlty customers are responsible for security.
+ - Risk Transference: Some risks are transferred to the provider, but mostly customers are responsible for security.
  
  - Ease of recovery: Cloud services offer easy data recovery and backup solutions.
  
- - Patch Avalibility: Providers release patches for vulnerabilities automatically.
+ - Patch Availability: Providers release patches for vulnerabilities automatically.
  
  - Inability to patch: Compatibility issues or lack of control can hinder patching.
  
@@ -210,7 +210,235 @@ Serverless
   
   Consider the specific needs and requirements of your application; serverless introduces challenges like Vendor Lock-in and service provider dependencies.
   
-  
+
+
+
+--------------------------------------------------------------------------
 ### Microservices
 
 Microservices
+This architectural style for breaking down large application into small, independent services. Each of the microservice runs a unique process and communicates through a well defined, lightweight mechanism. In contrast with traditional monolithic architecture where all components are inter connected, here each service in the microservice architecture is self-contained and able to run independently.
+
+Advantages of microservices
+
+ - Scalibility: In this architecture the services can be scaled independently based on demand.
+  
+ - Flexibility: Microservices can use different technologies and be managed by different teams.
+
+ - Resilience: Isolation reduces the risk of system-wide failures which in return increases resilience.
+ 
+ - Faster Deployment and updates: Independent deployment and updates allow for agility and reduced deployment risk.
+  
+Challenges of Microservices
+
+ Complexity: Managing multiple services involves inter-service communication, data consistency, and distributed system testing.
+
+ Data Management: Each microservice can have its own database, leading to data consistency challenges. 
+ 
+ Network Latency: Increased inter-service communication can result in network latency and slower response times.
+ 
+ Security: The distributed nature of microservices increases the attack surface, requiring robust security measures.
+ 
+### Network Infrastructure
+
+Network Infrastructure
+ 
+ It is the backbone of modern organizations. It comprises of hardware, software, ervices, and facilities for network support and management. 
+
+Physical separation
+ 
+ This is often refferred to as "Air Gapping". It isolates a system by physically disconnecting it for all networks. Physical seperation is one of the most secure method of security, but it is still vulnerable to sophisticated attacks. 
+ 
+Logical Separation
+ This establishes boundaies within a network to restrict acces to a certain areas. It is implemented by using Firewalls, VLANs, and network devices.
+ 
+Comparison
+ Physical Seperation (Air Gappping): It is highly secure as it provides complete isolation.
+ 
+ Logical Sepration: It is more flexible and eaiser to implement. It is less secure if not configured properly.
+ 
+ 
+### Software-defined Network (SDN)
+
+Software-defined Network
+ Software-Defined Networking (SDN) is a transformative approach to network management that decouples the network control plane from the data forwarding plane. This separation allows for more dynamic and programmable network configurations, making networks more flexible, efficient, and easier to manage. This management is done with a centrallized server that decides how data moves through the network.
+ 
+ 
+SDN Architecture
+ Three Distinct Planes are:
+  - Data Plane (Forwarding Plane): This plane is responsible for handling data packets. This also makes decisions based on protocols like IP and Ethernet. It is mainly concerned with sending and receiving data.
+ 
+  - Control Plane: This a centralized decision-maker in SDN. It dictates traffic flow across the entire network and it replaces traditional, distributed router control planes. This result in increases in network manageability and flexibility.
+  
+  - Application Plane: This plane Hosts all network applications that interact with the SDN controller. The applications instruct the controller on network management. The controller manipulates the network based on these instructions.
+
+### Infrastructure as Code (IaC)
+
+Infracture as Coad (IaC)
+ It ia a mordern approcah to It Infrastructure management. It automates the provisioning and management through code. This is primarly used in DevOps and with cloud computing.
+ 
+IaC Method
+ In this the developers and ops teams manages infrastructure through code. These codes files are versioned, tested and audited. High level languages like YAML, JASON or domain specific languages are used e.g. HCL.  Idempotence methods are used to ensure the identical environments. (Idempotence refers to a function or a operation that can be repeated without changing the outcome.)
+ 
+Benefits of IaC
+
+ - Speed and efficiency
+ - Consistency and standardization
+ - scalability
+ - cost Savings
+ - Auditability and compliance
+ 
+Challenges in IaC:
+ - Learning Curve: It means to learn new skill and mindset that is requires. In this infrastructure the teams learn to write, test and maintain infrastructure code.
+ 
+ - Complexity: Infrastructure code can become complex due to many management components. It mitigates with modularization and documentation
+ 
+ - Security Risk: In this there is always a chance of sensitive data exposure in code files which can be caused due to insecure configuration.
+ 
+### Centralizes vs Decentralizes Architectures
+
+Centralized architecture
+ In this all the computing functions are managed from a single location or authority. I this architecture the data and applications is stored in one location and is accessed via a network.
+
+It's components includes:
+  - central server
+  - Mainframe
+  - Data Center
+  
+It's benifits includes
+ 
+  - Efficiency and control: centralization provides high resource control and efficient resource allocation as it have status of whole infrasturcture.
+  
+  - Consistency: This ensures uniform and accurate data across the organization
+  
+  - Cost-effective: It reduces maintenance and infrastructure costs 
+ 
+It Risk are:
+ - Single point failure: Server failure can disrupt the entire network
+ 
+ - Scalability Issues: The centralized architecture struggles to handle growth, leading to performance problems.
+ 
+ - Security Risk: These are attractive targets for cybercriminals, as compromising a central server risks whole data and app security.
+ 
+ 
+Decentralized Architecture
+
+In this architecture the computing functions distributed across multiple systems or locations. There is No single point of control, each node operates independently. 
+
+It's benifits are:
+ - Resilience: It can continue functioning despite individual node failures.
+ 
+ - Scalability: It can easily scales with organization growth by adding new nodes.
+ 
+ - Flexibility: It supports remote work and distributed teams.
+ 
+It's Risk Includes:
+
+ - Security Risk: It is vulnerable to security threats and especially in remote work scenarios.
+ 
+ - Management Challenges: Due to it's decentralize location the management becomes complex as it need coordinating multiple nodes.
+ 
+ - Data Inconsistency: There is always a Potential of issues with data consistency and synchronization.
+ 
+Consideration for Choosing Architecture
+
+ Choice depends on the organization's specific needs and context as:
+   
+   - Centralized systems is best for data accuracy and resource management priorities.
+ 
+   - Decentralized systems is best for Resilience, flexibility, and rapid scaling needs.
+ 
+ 
+### Internet Of Things (IoT)
+
+Internet Of Things (IoT)
+
+ It is a network of physical devices with sensors, software, and connectivity. It enables data exchange among connected objects.
+ 
+Hub/Control System
+ It is central component connecting IoT devices. It collects, processes, analyzes data, and sends commands. It can either be a physical device or software platform.
+ 
+Smart Devices
+ It is a type of device that detect changes in environment, convert into data. It measure various parameters like temperature, motion etc. It enable interaction and autonomous decisions in smart devices.
+ 
+IoT Risk
+ 
+ Weak Default setting: It is a common security risk. Default usernames/passwords are easy targets for hackers. The users must change defaults upon installation is essential.
+ 
+ Pooerly Configured Network Services: Devices may have vulnerabilities due to open ports, unencrypted communications. The unnecessary services can increase attack surface. Keeping IoT devices on a separate network is recommended.
+ 
+### ICS and SCADA
+
+Industrial Control Systems (ICS)
+
+ These are the systems used to monitor and control industrial processes, found in various industries like electrical water, oil, gas and data. 
+
+ Distributed Control System (DCS): It is used in control production systems within a single location.
+
+ Progammable logic Controllers (PLCs): It is used to control specific processes such as assembly lines and factories.
+
+Supervisory Control and Data Acquisition (SCADA) systems
+
+ These are the type of ICS designed for monitoring and controlling geographically dispersed
+industrial processes. 
+ Common in industries like:
+  - Electric power generation, transmission, and distribution systems.
+  - Water treatment and distribution systems.
+  - Oil and gas pipeline monitoring and control systems.
+  
+Risk and Vulnerabilities
+  
+ - Unauthorized Access: Unauthorized individuals can manipulate system operations without
+proper protection.
+
+ - Malware Attacks: Vulnerable to disruptive malware attacks.
+  
+ - Lack of Updates: Running outdated software with unpatched vulnerabilities.
+  
+ - Physical Threats: Susceptible to damage to hardware or infrastructure.
+  
+Securing ICS and SCADA Systems
+ - Implementing Strong Access Controls: It refers to setting strong passwords, two-factor authentication. It also means to have limited access to authorized personnel only.
+ 
+ - Regularly Update and Patch Systems: Keep systems updated to protect against known vulnerabilities.
+ 
+ - Use Firewall and Intrusion Detection Systems: Detect and prevent unauthorized access.
+ 
+ - Conduct Regular Security Audits: Identify and address potential vulnerabilities through routine assessments.
+ 
+ - Employee Training: Train employees on security awareness and response to potential threats.
+ 
+ 
+### Embedded Systems
+
+Embedded Systems
+
+ These are the specialized computing components designed for dedicated functions within larger devices. They integrate hardware and mechanical elements and are essential for various
+daily-use devices.
+
+Real-Time Operating System (RTOS)
+ 
+ These are designed for real-time applications that process data without significant delays. Critical for time-sensitive applications like flight navigation and medical equipment. 
+ 
+
+Risks and Vulnerabilities in Embedded Systems
+ 
+ - Hardware Failure: Prone to failure in harsh environments.
+ 
+ - Software Bugs: Can cause system malfunctions and safety risks.
+ 
+ - Security Vulnerabilities: Vulnerable to cyber-attacks and unauthorized access.
+ 
+ - Outdated System: Aging software and hardware can be more susceptible to attacks.
+ 
+
+Key Security Strategies for Embedded System
+
+ - Network Segmentation: Divide the network into segments to limit potential damage in case of a breach.
+ 
+ - Wrappers (e.g., IPSec): Protect data during transfer by hiding data interception points.
+ 
+ - Firmware Code Control: Manage low-level software to maintain system integrity.
+ 
+ - Challenges in Patching: Updates face operational constraints; OTA updates demand meticulous
+planning and security measures. It also includes Over-the-Air (OTA) Updates which means Patches are delivered and installed remotely.
