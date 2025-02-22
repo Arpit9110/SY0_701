@@ -1,4 +1,4 @@
-#  Cyber Resilience and Redundancy
+# Cyber Resilience and Redundancy
 
 ### High Availability
 
