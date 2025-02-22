@@ -142,4 +142,11 @@ Firewalls and Access Control Lists (ACLs)
 
 Configuring ACLs
 
- A web-based interface or a text-based command line interface can be used. The order of ACL rules specifies the order of actions taken on traffic (top-down). The first matching rule is executed, and then no other ACLs are checked. Always place the most specific rules at the top and generic rules at the bottom. Some devices support implied deny functions, while others require a "deny all" rule at the end. Actions taken by network devices should be logged, including deny actions.
+A web-based interface or a text-based command line interface can be used. The order of ACL rules specifies the order of actions taken on traffic (top-down). The first matching rule is executed, and then no other ACLs are checked. Always place the most specific rules at the top and generic rules at the bottom. Some devices support implied deny functions, while others require a "deny all" rule at the end. Actions taken by network devices should be logged, including deny actions.
+
+ACL Rules
+
+Firewall Types
+
+Key Takeaways
+
