@@ -145,8 +145,76 @@ Configuring ACLs
 A web-based interface or a text-based command line interface can be used. The order of ACL rules specifies the order of actions taken on traffic (top-down). The first matching rule is executed, and then no other ACLs are checked. Always place the most specific rules at the top and generic rules at the bottom. Some devices support implied deny functions, while others require a "deny all" rule at the end. Actions taken by network devices should be logged, including deny actions.
 
 ACL Rules
+These are the made up of some key pieces of information including
+type of traffic
+Source of traffic
+Destination of traffic
+Action to be taken against the traffic
 
 Firewall Types
+Hardware-based firewall: It is a dedicated network security device that filter and control network traffic at the hardware level . It is commonly used to protect an entire network or subnet by implementing ACL and rules.
+
+Software based firewall: It's a firewall that runs on a software application on individual devices such as a workstations. It utilizes ACL and rules to manage incoming and outgoing traffic providing security at the software level an a per-device basis.
+
 
 Key Takeaways
+- Firewalls use ACLs to control network traffic, ensuring security by specifying permitted and denied action. 
+- Proper ACL configuration and rule order are crucial for effective network protection.
 
+
+
+### IDS and IPS
+
+IDS - It takes logs and alerts the system of a possible intrusion
+IPS - It logs alerts and takes action against a possible intrusion.
+
+**IDS ( Intrusion detection system)**
+
+It Logs and alerts that it found something suspicious or malicious. Intrusion detection systems operate either using signature-based or anomaly-based detection algorithms.
+
+
+It is of mainly three types :
+- Network based IDS (NIDS) : It monitors the traffic coming in and out of a network.
+
+- Host based IDS (HIDS) : It looks at suspicious network traffic going to or from a single or endpoint.
+
+- Wireless IDS (WIDS) : It detects attempts to cause a denial of a service on a wireless network.
+
+Two types of working of IDS
+
+Signature based IDS: It analyses traffic based on defined signatures and can only recognize attacks based on previously identified attacks in its database. 
+ It includes 
+   - Pattern matching: Specific pattern of steps taken in an attack. E.g. NIDS,WIDS
+   
+   - Stateful-matching: It knows system baseline state of the system and if it deviates then it alters the system. e.g. HIDS
+
+
+Intrusion Prevention Systems (IPS) 
+It Logs, alerts and takes action when it finds something suspicious or malicious. It  scans traffic to look for malicious activity and takes action to stop it.
+
+### Network Appliances
+
+Network Appliance 
+It is a dedicated hardware device with pre-installed software for specific networking services.
+
+Different type of Network Appliances are:
+
+- Load balancers: These are the distributed network/application traffic across multiple servers. Enhance server efficiency and prevent overload. It ensures redundancy,  reliability. I also performs continuous health checks.  It includes Application Delivery Controllers (ADCs) offer advanced functionality.  It is essential for high-demand environments and high-traffic websites.
+
+- Proxy server: It act as intermediaries between clients and servers. It provides content caching, requests filtering, and login management. It enhance request speed and reduce bandwidth usage and it Add a security layer and enforce network utilization policies. It help to protect against DDoS attack. It facilitate load balancing and user authentication and Handle data encryption and ensure compliance with data sovereignty laws. 
+
+- Sensors : It monitor, detect, and analyse network traffic and data flow. It Identify unusual activities, security breaches, and performance issues and provide real-time insights for proactive network management. It aid in performance monitoring and alerting. It act as the first line of defence against cyber threats.
+
+- Jump Servers/Jump Box:  It secure gateways for system administrators to access devices in different security zones. It also control access and reduce the attack surface area. It  offer protection against downtime and data breaches. It simplify logging and auditing and  speed up incident response during cyber-attacks. It also streamline system management and maintenance. It Host essential tools and scripts and  Monitor system health for performance and security.
+
+
+### Port Security
+
+Port Security 
+
+A network switch feature that restricts device access to specific ports based on MAC addresses. It enhances network security by preventing unauthorized devices from connecting.
+
+Network Switches
+These are the networking devices that operate at Layer 2 of the OSI model. It use MAC addresses for traffic switching decisions through transparent bridging. It efficiently prevent collisions, operate in full duplex mode. It remember connected devices based on MAC addresses. It Broadcast traffic only to intended receivers, increasing security.
+
+CAM Table (Content Addressable Memory)
