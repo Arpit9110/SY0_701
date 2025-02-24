@@ -218,3 +218,108 @@ Network Switches
 These are the networking devices that operate at Layer 2 of the OSI model. It use MAC addresses for traffic switching decisions through transparent bridging. It efficiently prevent collisions, operate in full duplex mode. It remember connected devices based on MAC addresses. It Broadcast traffic only to intended receivers, increasing security.
 
 CAM Table (Content Addressable Memory)
+It MAC addresses associated with switch ports. It is also vulnerable to MAC flooding attacks, which can use cause the switch to fail open.
+
+Port Secuirty Implementation
+It associate specific MAC addresses with interfaces. It prevent unauthorised devices from connecting. It can use sticky MACs for eaiser setup and is susceptible to MAC spoofing attack.
+
+802.1xAuthentication
+It provides prot-based authentication for wired and wireless networks. It utilizes RADIUS or TACACS+ fro actual authentication. It also prevents rouge device access.
+It requires three roles:
+ - Supplicant
+ - Authenticator
+ - Authentication Server
+
+RADIUS vs. TACACS+
+- RADIUS is cross-platform, while TACACS+ is Cisco proprietary.
+- TACACS+ is slower but offers additional security and independently handles authentication, authorization, and accounting.
+- TACACS+ supports all network protocols, whereas RADIUS lacks support for some.
+ 
+
+EAP (Extensible Authentication Protocol)
+It is a framework for various authentication methods.It has different variants which have their own features: 
+
+ EAP-MD5: It uses simple passwords and the challenge handshake authentication process to provide remote access authentication. It is a one-way authentication process. It doesn’t provide mutual authentication.
+ 
+ EAP-TLS: It uses public key infrastructure with a digital certificate which is installed on both the client and the server. It provides mutual authentication.
+ 
+ EAP-TTLS: It requires a digital certificate on the server, but not on the client. The client uses a password for authentication.
+ 
+ EAP-FAST: Uses protected access credential, instead of a certificate, to establish mutual authentication.
+ 
+ PEAP: Supports mutual authentication using server certificates and Active Directory databases to authenticate a password from the client.
+ 
+ EAP-LEAP: Cisco proprietary and limited to Cisco devices.
+ 
+Integration for Network Security remarks:
+
+ - Combining port security, 802.1X, and EAP enhances network security.
+ - Ensures only authenticated and authorized devices can access sensitive resources.
+ 
+ 
+### Securing Network Communications
+
+Virtual Private Network(VPNs)
+It helps in extending private networks across public networks. It allows remote users to securely connect to an organization's network. It can be configured as site-to-site, client-to-site, or clientless VPNs.
+
+ Site-to-Site VPN: It connects two site cost-effecitvely. It replaces expensive leased lines, it also utilizes a VPN tunnel over the public internet. It encrypts and secure dat between sites, but is is slower and more secure.
+ 
+ Client-to-site VPN: It connects a single host (e.g., laptop) to the central office. It is ideal fro remote user access to the central network. It also have options for full tunnel and split tunnel configurations.
+ 
+ Clientless VPN: It uses a web browser to establish secure, remote-access VPN. It dosen't need dedicated software or hardware client. It utilizes HTTPS and TLS protocols for secure connections to websites.
+ 
+In addition to site-to-site and client-to-site VPNs, one also have the option of full tunnel or split tunnel VPN configuration.
+
+ Full Tunnel VPN: It Encrypts and routes all network requests hrough the VPN, it provides high security, client full part of central network. It limits access to local resources but it us suitable for remote access to central resources.
+ 
+ Split Tunnel VPN: It divides traffic, routing some through the VPN, some directly to the internet. It enhances performance by bypassing VPN for non-central traffic. It is less secure and have more potential exposure to attackers. It is recommended for better performance but requires caution on untrusted network.
+ 
+Transport Layer Security (TLS)
+
+It provides encryption and security for data in transit. It is used for secure connections in web browser(HTPS). It is used in transmission cntrol protocol (TCP) for secure connections between a client and a server.It might slow down the connection.
+
+ Datagram Transport Layer security (DTLS): It is fater user datagram protocol-based (UDP-based) alternative. It ensures end-user security and protects against eavesdropping in clientless VPN connetctios. It also ensures confidentiality, integrity and aauthentication of data.
+ 
+Internet Protocol Security (IPSec)
+
+It is a secure protocol suite for IP communication. It provides confidentiality,Integrity, authentication an danit-replay protection. it used for both site-to-site, and client-to-site VPNs. 
+There are five key steps in establishing an IPSec VPN:
+ - Request to start tehh Internet Key Exchange (IKE): PC1 initiates tarffic to PC2, triggers IPsec tunnel creation by RTR1.
+ - Authentication- IKE Phase 1: In this step the RTR1 and RTR2 negotiate security association for the IPSec IKE Phase1 (ISAKMAP) tunnel.
+ - Negotiation-IKE Phase 2: In IKE phase 2 establishes a tunnel within the tunnel.
+ - Data transfer: Data transfer between PC1 and PC2 takes place securely. 
+ - Tunnel Termination: In this step the tunnel is torn down including the deletion of IPSec security association.
+ 
+IPSec Tunneling Modes (Data Transfer)
+
+ Transport Mode
+  It uses original Ip header and is suitable for client-to-site VPNs. It does not increase packet size. It avoids potential fragmentation issues from MTU constraints. 
+  MTU(Maximum Transmission Unit) it is set by befault at 1500 bytes and may cause fragmentation and other VPN problems.
+
+ Tunneling Mode
+ It adds a new header to encapsulate the entire packet. It is ideal for site-to-site VPNs and, it may increase packet size and require jumbo frame. It provides confidentiality for both payload and header.
+
+Authentication Header (AH)
+
+It offers connectionless data integrity and data origin authentication for IP datagrams using cryptographic hashes as identification infromation.
+
+Encapsulating Security Payload (ESP)
+
+This provides confidentiality, integrity and encryption. It provdes replay protection. It encryps the packet's payload.
+
+###SA-WAN and SASE
+
+SD_WAN (Software-Defined Wide Area Network)
+It is a virtualized approach to managing and optimizing wide area network connections. 
+
+Pourpose: It efficiently routes traffic between remote sites, data center and cloud environments.
+
+Benefits: It increased agility, security and efficiency fro geographically distributed workforces.
+
+Control: Software-based architecture with control extracted from underlying hardware.
+
+Transport Services: It allows the use of various transport services:
+- MPLS
+- Cellular
+- Microwave links
+- Broadband internet
